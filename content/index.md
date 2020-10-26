@@ -10,8 +10,6 @@ type: "index"
 - Affiliation:
     - Director @ Human Dataware Lab. Co., Ltd., Japan
     - Post-doctroal researcher @ Nagoya University, Japan
-- E-mail:
-    - hayashi.tomoki\<at\>g.sp.m.is.nagoya-u.ac.jp
 - Research Interests:
     - Speech processing
         - Speech synthesis
@@ -20,9 +18,6 @@ type: "index"
     - Environmental sound processing
         - Sound event detection
         - Anomalous sound detection
-    - Deep learning
-        - End-to-end processing
-        - Sequence-to-sequence modeling
 
 
 ## Short Bio
@@ -86,27 +81,27 @@ Tomoki Hayashi received the B.E. degree in engineering and the M.E. and Ph.D. de
 22. T. Hori, R. Astudillo, **T. Hayashi**, Y. Zhang, S. Watanabe, and J. LeRoux, "Cycle-consistency training for end-to-end speech recognition," Proc. IEEE ICASSP, pp. 6271-6275, Brighton, UK, May 2019.
 23. T. Komatsu, **T. Hayashi**, R. Kondo, T. Toda, K. Takeda, "Scene-dependent anomalous acoustic-event detection based on conditional WaveNet and i-Vector," Proc. IEEE ICASSP, pp. 870-874, Brighton, UK, May 2019.
 24. P.L. Tobing, Y. Wu, **T. Hayashi**, K. Kobayashi, T. Toda, "Voice conversion with cyclic recurrent neural network and fine-tuned WaveNet vocoder," Proc. IEEE ICASSP, pp. 6815-6819, Brighton, UK, May 2019.
-25.	**T. Hayashi.**, S. Watanabe, Y. Zhang, T. Toda, T. Hori, R. Astudillo, K. Takeda, "Back-translation-style data augmentation for end-to-end ASR," Proc. IEEE SLT, pp. 426-433, Dec. 2018.
-26.	P. L. Tobing, **T. Hayashi.**, Y. Wu, K. Kobayashi, T. Toda, "An evaluation of deep spectral mappings and WaveNet vocoder for voice conversion," Proc. IEEE SLT, pp. 297-303, Dec. 2018.
-27.	K. Miyazaki, **T. Hayashi.**, T. Toda, K. Takeda, "Connectionist temporal classification-based sound event encoder for converting sound events into onomatopoeia representations," Proc. EUSIPCO, pp. 857-861, Sep. 2018.
-28.	**T. Hayashi.**, T. Komatsu, R. Kondo, T. Toda, K. Takeda, "Anomalous sound event detection based on WaveNet," Proc. EUSIPCO, pp. 2508-2512, Sep. 2018.
-29.	**T. Hayashi.**, S. Watanabe, T. Toda, K. Takeda, "Multi-head decoder for end-to-end speech recognition," Proc. INTERSPEECH, pp. 801-805, Sep. 2018.
-30.	Y. Wu, K. Kobayashi, **T. Hayashi.**, P. L. Tobing, T. Toda, "Collapsed segment detection and reduction for WaveNet vocoder," Proc. INTERSPEECH, pp. 1998-1992, Sep. 2018.
-31.	Y. Wu, P. L. Tobing, **T. Hayashi.**, K. Kobayashi, T. Toda, "The NU non-parallel voice conversion system for the voice conversion challenge 2018," Proc. Odyssey 2018, pp. 211-218, June 2018.
-32.	P. L. Tobing, Y. Wu, **T. Hayashi.**, K. Kobayashi, T. Toda, "NU voice conversion system for the voice conversion challenge 2018," Proc. Odyssey 2018, pp. 219-226, June 2018.
-33.	**T. Hayashi.**, A. Tamamori, K. Kobayashi, K. Takeda, T. Toda, "An investigation of multi-speaker training for WaveNet vocoder," Proc. ASRU, pp. 712-718, Dec. 2017.
-34.	A. Tamamori, **T. Hayashi.**, T. Toda, K. Takeda, "Investigation of effectiveness on recurrent neural network for daily activity recognition using multi-modal signals," Proc. APSIPA, 7 pages, Kuala Lumpur, Malaysia, Dec. 2017.
-35.	A. Tamamori, **T. Hayashi.**, K. Kobayashi, K. Takeda, T. Toda, "Speaker-dependent WaveNet vocoder," Proc. INTERSPEECH, pp. 1118-1122, Aug. 2017.
-36.	K. Kobayashi, **T. Hayashi.**, A. Tamamori, T. Toda, "Statistical voice conversion with WaveNet-based waveform generation," Proc. INTERSPEECH, pp. 1138-1142, Aug. 2017.
-37.	**T. Hayashi.**, S. Watanabe, T. Toda, T. Hori, J. Le Roux, K. Takeda, "BLSTM-HMM hybrid system combined with sound activity detection network for polyphonic sound event detection," Proc. ICASSP, pp. 766-770, Mar. 2017.
-38.	A. Tamamori, **T. Hayashi.**, T. Toda, K. Takeda, "Investigation on recurrent neural network architectures for daily activity recognition," Proc. UV2016, Oct. 2016.
-39.	**T. Hayashi.**, S. Watanabe, T. Toda, T. Hori, J. Le Roux, K. Takeda, "Bidirectional LSTM-HMM hybrid system for polyphonic sound event detection," Proc. DCASE2016 workshop, 5 pages, Sep. 2016.
-40.	S. Araki, **T. Hayashi.**, M. Delcroix, M. Fujimoto, K. Takeda, T. Nakatani, "Exploring multi-channel features for denoising-autoencoder-based speech enhancement," Proc. ICASSP, pp.116-120, Apr. 2015.
-41.	**T. Hayashi.**, S. Watanabe, T. Toda, T. Tori, J. LeRoux, K. Takeda, "Convolutional bidirectional long short-term memory hidden Markov model hybrid system for polyphonic sound event detection," Proc. 5th Joint Meeting of the Acoustical Society of America and Acoustical Society of Japan, Dec. 2016.
-42.	H. Erdogan, **T. Hayashi.**, J. R. Hershey, T. Hori, C. Hori, W. Hsu, S. Kim, J. LeRoux, Z. Meng, S. Watanabe, "Multi-channel speech recognition: LSTMs all the way through," Proc. CHiME4 workshop, 2016.
-43.	**T. Hayashi.**, M. Nishida, N. Kitaoka, K. Takeda, "Daily activity recognition based on DNN using environmental sound and acceleration signals," Proc. EUSIPCO, pp. 2351-2355, Sep. 2015.
-44.	N. Kitaoka, **T. Hayashi.**, K. Takeda, "Noisy speech recognition using blind spatial subtraction array technique and deep bottleneck features," Proc. APSIPA, 4 pages, Dec. 2014.
-45.	**T. Hayashi.**, N. Kitaoka, C. Miyajima, K. Takeda, "Investigating the robustness of deep bottleneck features for recognizing speech of speakers of various ages", Proc. FORUM ACUSTICUM, 4 pages, Sep, 2014
+25.	**T. Hayashi**, S. Watanabe, Y. Zhang, T. Toda, T. Hori, R. Astudillo, K. Takeda, "Back-translation-style data augmentation for end-to-end ASR," Proc. IEEE SLT, pp. 426-433, Dec. 2018.
+26.	P. L. Tobing, **T. Hayashi**, Y. Wu, K. Kobayashi, T. Toda, "An evaluation of deep spectral mappings and WaveNet vocoder for voice conversion," Proc. IEEE SLT, pp. 297-303, Dec. 2018.
+27.	K. Miyazaki, **T. Hayashi**, T. Toda, K. Takeda, "Connectionist temporal classification-based sound event encoder for converting sound events into onomatopoeia representations," Proc. EUSIPCO, pp. 857-861, Sep. 2018.
+28.	**T. Hayashi**, T. Komatsu, R. Kondo, T. Toda, K. Takeda, "Anomalous sound event detection based on WaveNet," Proc. EUSIPCO, pp. 2508-2512, Sep. 2018.
+29.	**T. Hayashi**, S. Watanabe, T. Toda, K. Takeda, "Multi-head decoder for end-to-end speech recognition," Proc. INTERSPEECH, pp. 801-805, Sep. 2018.
+30.	Y. Wu, K. Kobayashi, **T. Hayashi**, P. L. Tobing, T. Toda, "Collapsed segment detection and reduction for WaveNet vocoder," Proc. INTERSPEECH, pp. 1998-1992, Sep. 2018.
+31.	Y. Wu, P. L. Tobing, **T. Hayashi**, K. Kobayashi, T. Toda, "The NU non-parallel voice conversion system for the voice conversion challenge 2018," Proc. Odyssey 2018, pp. 211-218, June 2018.
+32.	P. L. Tobing, Y. Wu, **T. Hayashi**, K. Kobayashi, T. Toda, "NU voice conversion system for the voice conversion challenge 2018," Proc. Odyssey 2018, pp. 219-226, June 2018.
+33.	**T. Hayashi**, A. Tamamori, K. Kobayashi, K. Takeda, T. Toda, "An investigation of multi-speaker training for WaveNet vocoder," Proc. ASRU, pp. 712-718, Dec. 2017.
+34.	A. Tamamori, **T. Hayashi**, T. Toda, K. Takeda, "Investigation of effectiveness on recurrent neural network for daily activity recognition using multi-modal signals," Proc. APSIPA, 7 pages, Kuala Lumpur, Malaysia, Dec. 2017.
+35.	A. Tamamori, **T. Hayashi**, K. Kobayashi, K. Takeda, T. Toda, "Speaker-dependent WaveNet vocoder," Proc. INTERSPEECH, pp. 1118-1122, Aug. 2017.
+36.	K. Kobayashi, **T. Hayashi**, A. Tamamori, T. Toda, "Statistical voice conversion with WaveNet-based waveform generation," Proc. INTERSPEECH, pp. 1138-1142, Aug. 2017.
+37.	**T. Hayashi**, S. Watanabe, T. Toda, T. Hori, J. Le Roux, K. Takeda, "BLSTM-HMM hybrid system combined with sound activity detection network for polyphonic sound event detection," Proc. ICASSP, pp. 766-770, Mar. 2017.
+38.	A. Tamamori, **T. Hayashi**, T. Toda, K. Takeda, "Investigation on recurrent neural network architectures for daily activity recognition," Proc. UV2016, Oct. 2016.
+39.	**T. Hayashi**, S. Watanabe, T. Toda, T. Hori, J. Le Roux, K. Takeda, "Bidirectional LSTM-HMM hybrid system for polyphonic sound event detection," Proc. DCASE2016 workshop, 5 pages, Sep. 2016.
+40.	S. Araki, **T. Hayashi**, M. Delcroix, M. Fujimoto, K. Takeda, T. Nakatani, "Exploring multi-channel features for denoising-autoencoder-based speech enhancement," Proc. ICASSP, pp.116-120, Apr. 2015.
+41.	**T. Hayashi**, S. Watanabe, T. Toda, T. Tori, J. LeRoux, K. Takeda, "Convolutional bidirectional long short-term memory hidden Markov model hybrid system for polyphonic sound event detection," Proc. 5th Joint Meeting of the Acoustical Society of America and Acoustical Society of Japan, Dec. 2016.
+42.	H. Erdogan, **T. Hayashi**, J. R. Hershey, T. Hori, C. Hori, W. Hsu, S. Kim, J. LeRoux, Z. Meng, S. Watanabe, "Multi-channel speech recognition: LSTMs all the way through," Proc. CHiME4 workshop, 2016.
+43.	**T. Hayashi**, M. Nishida, N. Kitaoka, K. Takeda, "Daily activity recognition based on DNN using environmental sound and acceleration signals," Proc. EUSIPCO, pp. 2351-2355, Sep. 2015.
+44.	N. Kitaoka, **T. Hayashi**, K. Takeda, "Noisy speech recognition using blind spatial subtraction array technique and deep bottleneck features," Proc. APSIPA, 4 pages, Dec. 2014.
+45.	**T. Hayashi**, N. Kitaoka, C. Miyajima, K. Takeda, "Investigating the robustness of deep bottleneck features for recognizing speech of speakers of various ages", Proc. FORUM ACUSTICUM, 4 pages, Sep, 2014
 
 ### Domestic conference
 
