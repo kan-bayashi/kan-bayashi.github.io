@@ -1,0 +1,59 @@
+baseURL = "https://kan-bayashi.github.io/"
+languageCode = "en-us"
+title = "Tomoki Hayashi"
+theme = "m10c"
+
+[markup.goldmark.renderer]
+    unsafe = true # Allow user HTML tags
+
+[menu]
+  [[menu.main]]
+    identifier = "about-me"
+    name = "About"
+    url = "/#about-me"
+
+  [[menu.main]]
+    identifier = "short-bio"
+    name = "Bio"
+    url = "/#short-bio"
+
+  [[menu.main]]
+    identifier = "software"
+    name = "Softwares"
+    url = "/#softwares"
+
+  [[menu.main]]
+    identifier = "membership"
+    name = "Memberships"
+    url = "/#memberships"
+
+  [[menu.main]]
+    identifier = "publications"
+    name = "Publications"
+    url = "/#publications"
+
+[params]
+  author = "Tomoki Hayashi"
+  avatar = "avatar.png"
+  # avatarDescription = "My avatar description"
+  # favicon = "favicon.ico"
+  description = """
+      Speech processing, Environmental sound processing, Deep learning, Open-source software development.
+  """
+  menu_item_separator = " / "
+
+  [[params.social]]
+    name = "mail"
+    url = "mailto:hayashi.tomoki@g.sp.m.is.nagoya-u.ac.jp"
+
+  [[params.social]]
+    name = "github"
+    url = "https://github.com/kan-bayashi"
+
+  # Red and black theme
+  [params.style]
+    darkestColor = "#d35050"
+    darkColor = "#212121"
+    primaryColor = "#ffffff"
+    lightColor = "#a2a2a2"
+    lightestColor = "#d3d3d3"
