@@ -30,23 +30,28 @@ Tomoki Hayashi received the B.E. degree in engineering and the M.E. and Ph.D. de
 
 - Apr. 2010 - Mar. 2014
     - School of Engineering, Nagoya University, Japan
-        - B.E. degree in Engineering, 1999 (Superviser: [Kazuya Takeda](https://scholar.google.com/citations?user=O4epWMcAAAAJ), [Norihide Kitaoka](https://sites.google.com/site/norihidekitaokashome/home))
+        - B.E. degree in Engineering, 1999
+        - Superviser: [Kazuya Takeda](https://scholar.google.com/citations?user=O4epWMcAAAAJ), [Norihide Kitaoka](https://sites.google.com/site/norihidekitaokashome/home)
 - Apr. 2014 - Mar. 2019
     - Graduate School of Information Science, Nagoya University, Japan
-        - Master degree in Information Science, 2016 (Superviser: [Kazuya Takeda](https://scholar.google.com/citations?user=O4epWMcAAAAJ), [Tomoki Toda](https://sites.google.com/site/tomokitoda/), [Masafumi Nishida](https://scholar.google.com/citations?user=8oSiECkAAAAJ))
-        - Doctor degree in Information Science, 2019 (Superviser: [Kazuya Takeda](https://scholar.google.com/citations?user=O4epWMcAAAAJ), [Tomoki Toda](https://sites.google.com/site/tomokitoda/))
+        - Master degree in Information Science, 2016
+        - Doctor degree in Information Science, 2019
+        - Superviser: [Kazuya Takeda](https://scholar.google.com/citations?user=O4epWMcAAAAJ), [Tomoki Toda](https://sites.google.com/site/tomokitoda/)
 
 #### Work / Research experience
 
 - Aug. 2014 - Sep. 2014
     - NTT Communication Scienece Laborotories (Keihanna, Japan)
-        - Research internship (Superviser: [Shoko Araki](http://www.kecl.ntt.co.jp/icl/signal/araki/index_e.htm))
+        - Research internship
+        - Superviser: [Shoko Araki](http://www.kecl.ntt.co.jp/icl/signal/araki/index_e.htm)
 - Aug. 2016 - Nov. 2016
     - Mitsubishi Electric Research Laborotories (Boston, USA)
-        - Research internship (Superviser: [Shinji Watanabe](https://sites.google.com/view/shinjiwatanabe))
+        - Research internship
+        - Superviser: [Shinji Watanabe](https://sites.google.com/view/shinjiwatanabe)
 - Oct. 2017 - Dec. 2017
     - NEC Corporation (Kanagawa, Japan)
-        - Research internship (Superviser: [Tatsuya Komatsu](https://scholar.google.co.jp/citations?user=o2lMlxMAAAAJ))
+        - Research internship
+        - Superviser: [Tatsuya Komatsu](https://scholar.google.co.jp/citations?user=o2lMlxMAAAAJ)
 
 
 ## Memberships
