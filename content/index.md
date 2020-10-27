@@ -20,14 +20,39 @@ type: "index"
         - Anomalous sound detection
 
 
-## Short Bio
+## Bio
 
-Tomoki Hayashi received the B.E. degree in engineering and the M.E. and Ph.D. degrees in information science from Nagoya University, Aichi, Japan, in 2014, 2016, and 2019, respectively. He received the Acoustical Society of Japan 2014 Student Presentation Award. His research interests include statistical speech and audio signal processing. He is currently working as a postdoctoral researcher at Nagoya University and the chief operating officer of Human Dataware Lab. Co., Ltd.
+#### Short Bio
+
+Tomoki Hayashi received the B.E. degree in engineering and the M.E. and Ph.D. degrees in information science from Nagoya University, Aichi, Japan, in 2014, 2016, and 2019, respectively. His research interests include statistical speech and audio signal processing. He is currently working as a postdoctoral researcher at Nagoya University and the chief operating officer of Human Dataware Lab. Co., Ltd. He is a main developer of the end-to-end speech processing toolkit ESPnet.
+
+#### Education
+
+- Apr. 2010 - Mar. 2014
+    - School of Engineering, Nagoya University, Japan
+        - B.E. degree in Electrical and Electronic Engineering and Information Engineering, 1999
+- Apr. 2014 - Mar. 2019
+    - Graduate School of Information Science, Nagoya University, Japan
+        - Master degree in Information Science, 2016
+        - Doctor degree in Information Science, 2019
+
+#### Work / Research experience
+
+- Aug. 2014 - Sep. 2014
+    - NTT Communication Scienece Laborotories (Keihanna, Japan)
+        - Research internship
+- Aug. 2016 - Nov. 2016
+    - Mitsubushi Electric Research Laborotories (Boston, USA)
+        - Research internship
+- Oct. 2017 - Dec. 2017
+    - NEC (Kanagawa, Japan)
+        - Research internship
 
 
 ## Memberships
 
 - The Institute of Electrical and Electronics Engineers, Inc. (IEEE), Member
+- International Speech Communication Association (ISCA), Member
 - The Acoustical Society of Japan (ASJ), Member
 
 
@@ -38,8 +63,8 @@ Tomoki Hayashi received the B.E. degree in engineering and the M.E. and Ph.D. de
 ### Tutorials / Invited talks
 
 1. **林 知樹**, 山本 龍一, 井上 勝喜, 吉村 建慶, 武田 一哉, 戸田 智基, 渡部 晋治, "End-to-end音声合成の研究を加速させるオープンソースツールキットESPnet-TTS," 日本音響学会春季研究発表会 スペシャルセッション「end-to-end音声合成とその周辺」, Mar. 2020.（招待講演）
-2. Takaaki Hori, Tomoki Hayashi, Shigeki Karita, and Shinji Watanabe, "Advanced Methods for Neural End-to-End Speech Processing - Unification, Integration, and Implementation," Interspeech Tutorial, Sep. 2019.
-3. Tomoki Toda, Kazuhiro Kobayashi, and Tomoki Hayashi, "Statistical voice conversion with direct waveform modeling," Interspeech Tutorial, Sep. 2019.
+2. T. Hori, **T. Hayashi**, S. Karita, and S. Watanabe, "Advanced Methods for Neural End-to-End Speech Processing - Unification, Integration, and Implementation," Interspeech Tutorial, Sep. 2019.
+3. T. Toda, K. Kobayashi, and **T. Hayashi**, "Statistical voice conversion with direct waveform modeling," Interspeech Tutorial, Sep. 2019.
 
 ### Review papers
 
@@ -62,7 +87,7 @@ Tomoki Hayashi received the B.E. degree in engineering and the M.E. and Ph.D. de
 3. W.-C. Huang, **T. Hayashi**, Y.-C. Wu, H. Kameoka, T. Toda, "Voice transformer network: sequence-to-sequence voice conversion using transformer with text-to-speech pretraining," Proc. INTERSPEECH, Oct. 2020 (accepted).
 4. Y.-C. Wu, **T. Hayashi**, T. Okamoto, H. Kawai, T. Toda, "Quasi-periodic parallel WaveGAN vocoder: a non-autoregressive pitch-dependent dilated convolution model for parametric speech generation," Proc. INTERSPEECH, Oct. 2020 (accepted).
 5. S. Hikosaka, S. Seki, **T. Hayashi**, K. Kobayashi, K. Takeda, H. Banno, T. Toda, "Intelligibility enhancement based on speech waveform modification using hearing impairment simulator," Proc. INTERSPEECH, Oct. 2020 (accepted).
-6. P.L. Tobing, **T. Hayashi**, Y.-C. Wu, K. Kobayashi, T. Toda, "Cyclic spectral modeling for unsupervised unit discovery into voice conversion with excitation and waveform modeling," Proc. INTERSPEECH, Oct. 2020 (accepted),
+6. P.L. Tobing, **T. Hayashi**, Y.-C. Wu, K. Kobayashi, T. Toda, "Cyclic spectral modeling for unsupervised unit discovery into voice conversion with excitation and waveform modeling," Proc. INTERSPEECH, Oct. 2020 (accepted).
 7. H. Inaguma, S. Kiyono, K. Duh, S. Karita, N. E. Yalta Soplin, **T. Hayashi**, S. Watanabe, "ESPnet-ST: All-in-One Speech Translation Toolkit," Proc. the 58th Annual Meeting of the Association for Computational Linguistics: System Demonstrations, pp. 302-311, Full virtual, Jul. 2020.
 8. T. Yoshimura, **T. Hayashi**, K. Takeda, S. Watanabe, "End-to-end automatic speech recognition integrated with ctc-based voice activity detection," Proc. IEEE ICASSP, pp. 6999-7003, Full virtual, May 2020.
 9. K. Inoue, S. Hara, M. Abe, **T. Hayashi**, R. Yamamoto, S. Watanabe, "Semi-Supervised Speaker Adaptation for End-to-End Speech Synthesis with Pretrained Models," Proc. IEEE ICASSP, pp. 7634-7638, Full virtual, May 2020.
@@ -142,8 +167,6 @@ Tomoki Hayashi received the B.E. degree in engineering and the M.E. and Ph.D. de
 
 ## Softwares
 
-- [ESPnet](https://github.com/espnet/espnet)
-- [ParallelWaveGAN](https://github.com/kan-bayashi/ParallelWaveGAN)
-- [PytorchWaveNetVocoder](https://github.com/kan-bayashi/PytorchWaveNetVocoder)
-
-
+- [ESPnet](https://github.com/espnet/espnet): End-to-end speech processing toolkit.
+- [ParallelWaveGAN](https://github.com/kan-bayashi/ParallelWaveGAN): Unofficial ParallelWaveGAN (+MelGAN) implementation.
+- [PytorchWaveNetVocoder](https://github.com/kan-bayashi/PytorchWaveNetVocoder): WaveNet vocoder with noise shaping implementation.

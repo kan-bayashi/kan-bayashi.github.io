@@ -15,7 +15,7 @@ theme = "m10c"
   [[menu.main]]
     identifier = "short-bio"
     name = "Bio"
-    url = "/#short-bio"
+    url = "/#bio"
 
   [[menu.main]]
     identifier = "software"
