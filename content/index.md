@@ -8,8 +8,8 @@ type: "index"
 - Name:
     - Tomoki Hayashi (Ph. D)
 - Affiliation:
-    - Director @ Human Dataware Lab. Co., Ltd., Japan
-    - Post-doctroal researcher @ Nagoya University, Japan
+    - COO @ Human Dataware Lab. Co., Ltd., Japan
+    - Postdoctroal researcher @ Nagoya University, Japan
 - Research Interests:
     - Speech processing
         - Speech synthesis
@@ -52,6 +52,12 @@ Tomoki Hayashi received the B.E. degree in engineering and the M.E. and Ph.D. de
     - NEC Corporation (Kanagawa, Japan)
         - Research internship
         - Superviser: [Tatsuya Komatsu](https://scholar.google.co.jp/citations?user=o2lMlxMAAAAJ)
+- Nov. 2015 -
+    - Human Dataware Lab. Co., Ltd. (Nagoya, Japan)
+        - Chief operating officer
+- Apr. 2019 -
+    - Nagoya Univerisy (Nagoya, Japan)
+        - Postdoctoral researcher
 
 
 ## Memberships
