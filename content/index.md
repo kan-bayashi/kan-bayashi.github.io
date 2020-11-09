@@ -180,11 +180,6 @@ Tomoki Hayashi received the B.E. degree in engineering and the M.E. and Ph.D. de
 
 1. <u>**T. Hayashi**</u>，T. Yoshimura, Y. Adachi, "CONFORMER-BASED ID-AWARE AUTOENCODER FOR UNSUPERVISED ANOMALOUS SOUND DETECTION," DCASE2020 Challenge technical report, Jul. 2020.
 
-### Award
-
-1. 日本音響学会東海支部 優秀発表賞 Jul. 2015.
-2. 日本音響学会秋季研究発表会 学生優秀発表賞, Sep. 2014.
-
 
 ## Softwares
 
