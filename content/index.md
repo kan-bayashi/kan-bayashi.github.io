@@ -52,10 +52,10 @@ Tomoki Hayashi received the B.E. degree in engineering and the M.E. and Ph.D. de
     - NEC Corporation (Kanagawa, Japan)
         - Research internship
         - Superviser: [Tatsuya Komatsu](https://scholar.google.co.jp/citations?user=o2lMlxMAAAAJ)
-- Nov. 2015 -
+- Nov. 2015 - Now
     - Human Dataware Lab. Co., Ltd. (Nagoya, Japan)
         - Chief operating officer
-- Apr. 2019 -
+- Apr. 2019 - Now
     - Nagoya Univerisy (Nagoya, Japan)
         - Postdoctoral researcher
 
@@ -70,6 +70,12 @@ Tomoki Hayashi received the B.E. degree in engineering and the M.E. and Ph.D. de
 ## Publications
 
 - [Google Scholar](https://scholar.google.com/citations?user=75YkIWoAAAAJ)
+
+### Award
+
+1. DCASE2020 Challenge Judge's award, Nov. 2020.
+2. 日本音響学会東海支部 優秀発表賞 Jul. 2015.
+3. 日本音響学会秋季研究発表会 学生優秀発表賞, Sep. 2014.
 
 ### Tutorials / Invited talks
 
@@ -169,6 +175,10 @@ Tomoki Hayashi received the B.E. degree in engineering and the M.E. and Ph.D. de
 26.	荒木章子, <u>**林知樹**</u> 他, "マルチチャネル特徴を用いたdenoising autoencoder による音声強調," 音講論, pp. 685-686, Mar. 2015.
 27.	<u>**林 知樹**</u>，西田 昌史，北岡 教英，武田 一哉，"DNNによる環境音と加速度信号を用いた日常生活行動認識," 音講論, pp. 83-86，Mar. 2015.
 28.	<u>**林 知樹**</u>，北岡 教英，武田 一哉, "深層学習を用いた音声特徴量の年齢の変動に対する頑健性の調査," 音講論, pp.77-80, Sep, 2014.
+
+### Others
+
+1. <u>**T. Hayashi**</u>，T. Yoshimura, Y. Adachi, "CONFORMER-BASED ID-AWARE AUTOENCODER FOR UNSUPERVISED ANOMALOUS SOUND DETECTION," DCASE2020 Challenge technical report, Jul. 2020.
 
 ### Award
 
