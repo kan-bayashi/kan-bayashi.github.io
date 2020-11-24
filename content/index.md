@@ -73,7 +73,7 @@ Tomoki Hayashi received the B.E. degree in engineering and the M.E. and Ph.D. de
 
 ### Award
 
-1. DCASE2020 Challenge Judge's award, Nov. 2020.
+1. DCASE2020 Challenge Task 2 Judge's award, Nov. 2020.
 2. 日本音響学会東海支部 優秀発表賞 Jul. 2015.
 3. 日本音響学会秋季研究発表会 学生優秀発表賞, Sep. 2014.
 
@@ -99,12 +99,12 @@ Tomoki Hayashi received the B.E. degree in engineering and the M.E. and Ph.D. de
 
 ### International conference
 
-1. K. Miyazaki, T. Komatsu, <u>**T. Hayashi**</u>, S. Watanabe, T. Toda, K. Takeda, "Conformer-based sound event detection with semi-supervised learning and data augmentation," Proc. DCASE 2020 Workshop, Nov. 2020 (accepted).
-2. W.-C. Huang, <u>**T. Hayashi**</u>, S. Watanabe, T. Toda, "The sequence-to-sequence baseline for the Voice Conversion Challenge 2020: cascading ASR and TTS," Proc. Joint workshop for the Blizzard Challenge and Voice Conversion Challenge 2020, Oct. 2020 (accepted).
-3. W.-C. Huang, <u>**T. Hayashi**</u>, Y.-C. Wu, H. Kameoka, T. Toda, "Voice transformer network: sequence-to-sequence voice conversion using transformer with text-to-speech pretraining," Proc. INTERSPEECH, Oct. 2020 (accepted).
-4. Y.-C. Wu, <u>**T. Hayashi**</u>, T. Okamoto, H. Kawai, T. Toda, "Quasi-periodic parallel WaveGAN vocoder: a non-autoregressive pitch-dependent dilated convolution model for parametric speech generation," Proc. INTERSPEECH, Oct. 2020 (accepted).
-5. S. Hikosaka, S. Seki, <u>**T. Hayashi**</u>, K. Kobayashi, K. Takeda, H. Banno, T. Toda, "Intelligibility enhancement based on speech waveform modification using hearing impairment simulator," Proc. INTERSPEECH, Oct. 2020 (accepted).
-6. P.L. Tobing, <u>**T. Hayashi**</u>, Y.-C. Wu, K. Kobayashi, T. Toda, "Cyclic spectral modeling for unsupervised unit discovery into voice conversion with excitation and waveform modeling," Proc. INTERSPEECH, Oct. 2020 (accepted).
+1. K. Miyazaki, T. Komatsu, <u>**T. Hayashi**</u>, S. Watanabe, T. Toda, K. Takeda, "Conformer-based sound event detection with semi-supervised learning and data augmentation," Proc. DCASE 2020 Workshop, pp. 100-104, Nov. 2020.
+2. W.-C. Huang, <u>**T. Hayashi**</u>, S. Watanabe, T. Toda, "The sequence-to-sequence baseline for the Voice Conversion Challenge 2020: cascading ASR and TTS," Proc. Joint workshop for the Blizzard Challenge and Voice Conversion Challenge 2020, pp. 160-164, Oct. 2020.
+3. W.-C. Huang, <u>**T. Hayashi**</u>, Y.-C. Wu, H. Kameoka, T. Toda, "Voice transformer network: sequence-to-sequence voice conversion using transformer with text-to-speech pretraining," Proc. INTERSPEECH, pp. 4675-4680, Oct. 2020.
+4. Y.-C. Wu, <u>**T. Hayashi**</u>, T. Okamoto, H. Kawai, T. Toda, "Quasi-periodic parallel WaveGAN vocoder: a non-autoregressive pitch-dependent dilated convolution model for parametric speech generation," Proc. INTERSPEECH, pp. 3535-3539, Oct. 2020.
+5. S. Hikosaka, S. Seki, <u>**T. Hayashi**</u>, K. Kobayashi, K. Takeda, H. Banno, T. Toda, "Intelligibility enhancement based on speech waveform modification using hearing impairment simulator," Proc. INTERSPEECH, pp. 4059-4063, Oct. 2020.
+6. P.L. Tobing, <u>**T. Hayashi**</u>, Y.-C. Wu, K. Kobayashi, T. Toda, "Cyclic spectral modeling for unsupervised unit discovery into voice conversion with excitation and waveform modeling," Proc. INTERSPEECH, pp. 3540-3544, Oct. 2020.
 7. H. Inaguma, S. Kiyono, K. Duh, S. Karita, N. E. Yalta Soplin, <u>**T. Hayashi**</u>, S. Watanabe, "ESPnet-ST: All-in-One Speech Translation Toolkit," Proc. the 58th Annual Meeting of the Association for Computational Linguistics: System Demonstrations, pp. 302-311, Full virtual, Jul. 2020.
 8. T. Yoshimura, <u>**T. Hayashi**</u>, K. Takeda, S. Watanabe, "End-to-end automatic speech recognition integrated with ctc-based voice activity detection," Proc. IEEE ICASSP, pp. 6999-7003, Full virtual, May 2020.
 9. K. Inoue, S. Hara, M. Abe, <u>**T. Hayashi**</u>, R. Yamamoto, S. Watanabe, "Semi-Supervised Speaker Adaptation for End-to-End Speech Synthesis with Pretrained Models," Proc. IEEE ICASSP, pp. 7634-7638, Full virtual, May 2020.
