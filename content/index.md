@@ -73,9 +73,10 @@ Tomoki Hayashi received the B.E. degree in engineering and the M.E. and Ph.D. de
 
 ### Award
 
-1. DCASE2020 Challenge Task 2 Judge's award, Nov. 2020.
-2. 日本音響学会東海支部 優秀発表賞 Jul. 2015.
-3. 日本音響学会秋季研究発表会 学生優秀発表賞, Sep. 2014.
+1. IEEE Signal Processing Society Japan Young Author Best Paper Award, Dec, 2020.
+2. DCASE2020 Challenge Task 2 Judge's award, Nov. 2020.
+3. 日本音響学会東海支部 優秀発表賞 Jul. 2015.
+4. 日本音響学会秋季研究発表会 学生優秀発表賞, Sep. 2014.
 
 ### Tutorials / Invited talks
 
@@ -95,7 +96,7 @@ Tomoki Hayashi received the B.E. degree in engineering and the M.E. and Ph.D. de
 3.	A. Tamamori, <u>**T. Hayashi**</u>, T. Toda, K. Takeda, "Daily activity recognition based on recurrent neural network using multi-modal signals," APSIPA Transactions on Signal and Information Processing, Vol. 7, e21, pp..1-11, Dec. 2018.
 4.	<u>**T. Hayashi**</u>, M. Nishida, N. Kitaoka, T. Toda, K. Takeda, "Daily activity recognition with large-scaled real-life recording datasets based on deep neural network using multi-modal signals," IEICE Transactions on Fundamentals, Vol. E101-A, No. 1, pp. 199-210, Jan. 2018.
 5.	S. Watanabe, T. Hori, S. Kim, J. R. Hershey, <u>**T. Hayashi**</u>, "Hybrid CTC/Attention architecture for end-to-end speech recognition," in IEEE Journal of Selected Topics in Signal Processing, vol. 11, no. 8, pp. 1240-1253, Dec. 2017.
-6. <u>**T. Hayashi**</u>, S. Watanabe, T. Toda, T. Hori, J. Le Roux, K. Takeda, "Duration-controlled LSTM for polyphonic sound event detection," IEEE/ACM Transactions on Audio, Speech, and Language Processing, Vol. 25, No. 11, pp. 2059-2070, Nov. 2017.
+6. <u>**T. Hayashi**</u>, S. Watanabe, T. Toda, T. Hori, J. Le Roux, K. Takeda, "Duration-controlled LSTM for polyphonic sound event detection," IEEE/ACM Transactions on Audio, Speech, and Language Processing, Vol. 25, No. 11, pp. 2059-2070, Nov. 2017. **【IEEE Signal Processing Society Japan 2020 Young Author Best Paper Award】**
 
 ### International conference
 
