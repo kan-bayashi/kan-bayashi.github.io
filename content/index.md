@@ -24,7 +24,7 @@ type: "index"
 
 #### Short Bio
 
-Tomoki Hayashi received the B.E. degree in engineering and the M.E. and Ph.D. degrees in information science from Nagoya University, Aichi, Japan, in 2014, 2016, and 2019, respectively. His research interests include statistical speech and audio signal processing. He is currently working as a postdoctoral researcher at Nagoya University and the chief operating officer of Human Dataware Lab. Co., Ltd. He is a main developer of the end-to-end speech processing toolkit ESPnet.
+Tomoki Hayashi received the B.E. degree in engineering and the M.E. and Ph.D. degrees in information science from Nagoya University, Aichi, Japan, in 2014, 2016, and 2019, respectively. His research interests include statistical speech and audio signal processing. He is currently working as a postdoctoral researcher at Nagoya University and the chief operating officer of Human Dataware Lab. Co., Ltd. He is a main developer of the end-to-end speech processing toolkit ESPnet. He received the IEEE SPS Japan 2020 Young Author Best Paper Award.
 
 #### Education
 
@@ -86,8 +86,9 @@ Tomoki Hayashi received the B.E. degree in engineering and the M.E. and Ph.D. de
 
 ### Review papers
 
-1. <u>**林 知樹**</u>, 戸田 智基, "統計的手法による音響イベント検出," 日本音響学会誌，Vol. 75, No. 9, pp. 532-537, Sep. 2019．
-2. K. Miyazaki, T. Toda, <u>**T. Hayashi**</u>, K. Takeda, "Environmental sound processing and its applications," IEEJ Transactions on Electronics, Information and Systems，Vol. 14, No. 3, pp. 340-351, Mar. 2019.
+1. <u>**林 知樹**</u>, "End-to-End音声処理の概要とESPnet2を用いたその実践," 日本音響学会誌，Vol. 76, No. 12, pp. 720-729, Dec. 2020．
+2. <u>**林 知樹**</u>, 戸田 智基, "統計的手法による音響イベント検出," 日本音響学会誌，Vol. 75, No. 9, pp. 532-537, Sep. 2019．
+3. K. Miyazaki, T. Toda, <u>**T. Hayashi**</u>, K. Takeda, "Environmental sound processing and its applications," IEEJ Transactions on Electronics, Information and Systems，Vol. 14, No. 3, pp. 340-351, Mar. 2019.
 
 ### Journal papers
 
