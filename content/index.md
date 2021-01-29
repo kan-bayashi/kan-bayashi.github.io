@@ -1,5 +1,5 @@
 ---
-date: 2020-10-27T00:00:00+09:00
+date: 2021-01-28T00:00:00+09:00
 type: "index"
 ---
 
@@ -73,10 +73,11 @@ Tomoki Hayashi received the B.E. degree in engineering and the M.E. and Ph.D. de
 
 ### Award
 
-1. IEEE Signal Processing Society Japan Young Author Best Paper Award, Dec, 2020.
-2. DCASE2020 Challenge Task 2 Judge's award, Nov. 2020.
-3. 日本音響学会東海支部 優秀発表賞 Jul. 2015.
-4. 日本音響学会秋季研究発表会 学生優秀発表賞, Sep. 2014.
+1. 日本音響学会 独創研究奨励賞 板倉記念, Mar. 2021.
+2. IEEE Signal Processing Society Japan Young Author Best Paper Award, Dec, 2020.
+3. DCASE2020 Challenge Task 2 Judge's award, Nov. 2020.
+4. 日本音響学会東海支部 優秀発表賞 Jul. 2015.
+5. 日本音響学会秋季研究発表会 学生優秀発表賞, Sep. 2014.
 
 ### Tutorials / Invited talks
 
@@ -92,15 +93,18 @@ Tomoki Hayashi received the B.E. degree in engineering and the M.E. and Ph.D. de
 
 ### Journal papers
 
-1. Y.-C. Wu, P.L. Tobing, <u>**T. Hayashi**</u>, K. Kobayashi, T. Toda, "Non-parallel voice conversion system with WaveNet vocoder and collapsed speech suppression," IEEE Access, Vol. 8, No. 1, pp. 62094-62106, Apr. 2020.
-2. P.L. Tobing, Y.-C. Wu, <u>**T. Hayashi**</u>, K. Kobayashi, T. Toda, "Voice conversion with CycleRNN-based spectral mapping and finly tuned WaveNet vocoder," IEEE Access, Vol. 7, No. 1, pp. 171114-171125, Dec. 2019.
-3.	A. Tamamori, <u>**T. Hayashi**</u>, T. Toda, K. Takeda, "Daily activity recognition based on recurrent neural network using multi-modal signals," APSIPA Transactions on Signal and Information Processing, Vol. 7, e21, pp..1-11, Dec. 2018.
-4.	<u>**T. Hayashi**</u>, M. Nishida, N. Kitaoka, T. Toda, K. Takeda, "Daily activity recognition with large-scaled real-life recording datasets based on deep neural network using multi-modal signals," IEICE Transactions on Fundamentals, Vol. E101-A, No. 1, pp. 199-210, Jan. 2018.
-5.	S. Watanabe, T. Hori, S. Kim, J. R. Hershey, <u>**T. Hayashi**</u>, "Hybrid CTC/Attention architecture for end-to-end speech recognition," in IEEE Journal of Selected Topics in Signal Processing, vol. 11, no. 8, pp. 1240-1253, Dec. 2017.
-6. <u>**T. Hayashi**</u>, S. Watanabe, T. Toda, T. Hori, J. Le Roux, K. Takeda, "Duration-controlled LSTM for polyphonic sound event detection," IEEE/ACM Transactions on Audio, Speech, and Language Processing, Vol. 25, No. 11, pp. 2059-2070, Nov. 2017. **【IEEE Signal Processing Society Japan 2020 Young Author Best Paper Award】**
+1. W.-C. Huang, <u>**T. Hayashi**</u>, Y.-C. Wu, H. Kameoka, T. Toda, "Pretraining techniques for sequence-to-sequence voice conversion," IEEE/ACM Transactions on Audio, Speech and Language Processing, 2021.
+2. P.L. Tobing, Y.-C. Wu, <u>**T. Hayashi**</u>, K. Kobayashi, T. Toda, "An evaluation of voice conversion with neural network spectral mapping models and WaveNet vocoder," APSIPA Transactions on Signal and Information Processing, Vol. 9, e26, pp. 1-14, Nov. 2020.
+3. Y.-C. Wu, P.L. Tobing, <u>**T. Hayashi**</u>, K. Kobayashi, T. Toda, "Non-parallel voice conversion system with WaveNet vocoder and collapsed speech suppression," IEEE Access, Vol. 8, No. 1, pp. 62094-62106, Apr. 2020.
+4. P.L. Tobing, Y.-C. Wu, <u>**T. Hayashi**</u>, K. Kobayashi, T. Toda, "Voice conversion with CycleRNN-based spectral mapping and finly tuned WaveNet vocoder," IEEE Access, Vol. 7, No. 1, pp. 171114-171125, Dec. 2019.
+5.	A. Tamamori, <u>**T. Hayashi**</u>, T. Toda, K. Takeda, "Daily activity recognition based on recurrent neural network using multi-modal signals," APSIPA Transactions on Signal and Information Processing, Vol. 7, e21, pp..1-11, Dec. 2018.
+6.	<u>**T. Hayashi**</u>, M. Nishida, N. Kitaoka, T. Toda, K. Takeda, "Daily activity recognition with large-scaled real-life recording datasets based on deep neural network using multi-modal signals," IEICE Transactions on Fundamentals, Vol. E101-A, No. 1, pp. 199-210, Jan. 2018.
+7.	S. Watanabe, T. Hori, S. Kim, J. R. Hershey, <u>**T. Hayashi**</u>, "Hybrid CTC/Attention architecture for end-to-end speech recognition," in IEEE Journal of Selected Topics in Signal Processing, vol. 11, no. 8, pp. 1240-1253, Dec. 2017.
+8. <u>**T. Hayashi**</u>, S. Watanabe, T. Toda, T. Hori, J. Le Roux, K. Takeda, "Duration-controlled LSTM for polyphonic sound event detection," IEEE/ACM Transactions on Audio, Speech, and Language Processing, Vol. 25, No. 11, pp. 2059-2070, Nov. 2017. **【IEEE Signal Processing Society Japan 2020 Young Author Best Paper Award】**
 
 ### International conference
 
+1. C. Li, J. Shi, W. Zhang, A. S. Subramanian, X. Chang, N. Kamo, M. Hira, <u>**T. Hayashi**</u>, C. Boeddeker, Z. Chen, S. Watanabe, "ESPnet-SE: End-to-end speech enhancement and separation toolkit designed for ASR integration," Proc. IEEE SLT, pp. 785-792, Dec. 2020.
 1. K. Miyazaki, T. Komatsu, <u>**T. Hayashi**</u>, S. Watanabe, T. Toda, K. Takeda, "Conformer-based sound event detection with semi-supervised learning and data augmentation," Proc. DCASE 2020 Workshop, pp. 100-104, Nov. 2020.
 2. W.-C. Huang, <u>**T. Hayashi**</u>, S. Watanabe, T. Toda, "The sequence-to-sequence baseline for the Voice Conversion Challenge 2020: cascading ASR and TTS," Proc. Joint workshop for the Blizzard Challenge and Voice Conversion Challenge 2020, pp. 160-164, Oct. 2020.
 3. W.-C. Huang, <u>**T. Hayashi**</u>, Y.-C. Wu, H. Kameoka, T. Toda, "Voice transformer network: sequence-to-sequence voice conversion using transformer with text-to-speech pretraining," Proc. INTERSPEECH, pp. 4675-4680, Oct. 2020.
