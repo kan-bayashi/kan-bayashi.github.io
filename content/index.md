@@ -1,5 +1,5 @@
 ---
-date: 2021-01-28T00:00:00+09:00
+date: 2021-02-09T00:00:00+09:00
 type: "index"
 ---
 
@@ -59,6 +59,9 @@ Tomoki Hayashi received the B.E. degree in engineering and the M.E. and Ph.D. de
 - Apr. 2019 - Now
     - Nagoya Univerisy (Nagoya, Japan)
         - Postdoctoral researcher
+- Feb. 2020 - Now
+    - TARVO Inc. (Nagoya, Japan)
+        - Researcher
 
 
 ## Memberships
