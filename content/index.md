@@ -1,5 +1,5 @@
 ---
-date: 2021-02-09T00:00:00+09:00
+date: 2021-03-24T00:00:00+09:00
 type: "index"
 ---
 
@@ -97,15 +97,16 @@ Tomoki Hayashi received the B.E. degree in engineering and the M.E. and Ph.D. de
 
 ### Journal papers
 
-1. Y.-C. Wu, <u>**T. Hayashi**</u>, T. Okamoto, H. Kawai, T. Toda, "Quasi-periodic parallel WaveGAN: a non-autoregressive raw waveform generative model with pitch-dependent dilated convolution neural network," IEEE/ACM Transactions on Audio, Speech and Language Processing, Vol. 29, pp. 792-806, 2021.
-2. W.-C. Huang, <u>**T. Hayashi**</u>, Y.-C. Wu, H. Kameoka, T. Toda, "Pretraining techniques for sequence-to-sequence voice conversion," IEEE/ACM Transactions on Audio, Speech and Language Processing, pp. 745-755, 2021.
-3. P.L. Tobing, Y.-C. Wu, <u>**T. Hayashi**</u>, K. Kobayashi, T. Toda, "An evaluation of voice conversion with neural network spectral mapping models and WaveNet vocoder," APSIPA Transactions on Signal and Information Processing, Vol. 9, e26, pp. 1-14, Nov. 2020.
-4. Y.-C. Wu, P.L. Tobing, <u>**T. Hayashi**</u>, K. Kobayashi, T. Toda, "Non-parallel voice conversion system with WaveNet vocoder and collapsed speech suppression," IEEE Access, Vol. 8, No. 1, pp. 62094-62106, Apr. 2020.
-5. P.L. Tobing, Y.-C. Wu, <u>**T. Hayashi**</u>, K. Kobayashi, T. Toda, "Voice conversion with CycleRNN-based spectral mapping and finly tuned WaveNet vocoder," IEEE Access, Vol. 7, No. 1, pp. 171114-171125, Dec. 2019.
-6.	A. Tamamori, <u>**T. Hayashi**</u>, T. Toda, K. Takeda, "Daily activity recognition based on recurrent neural network using multi-modal signals," APSIPA Transactions on Signal and Information Processing, Vol. 7, e21, pp..1-11, Dec. 2018.
-7.	<u>**T. Hayashi**</u>, M. Nishida, N. Kitaoka, T. Toda, K. Takeda, "Daily activity recognition with large-scaled real-life recording datasets based on deep neural network using multi-modal signals," IEICE Transactions on Fundamentals, Vol. E101-A, No. 1, pp. 199-210, Jan. 2018.
-8.	S. Watanabe, T. Hori, S. Kim, J. R. Hershey, <u>**T. Hayashi**</u>, "Hybrid CTC/Attention architecture for end-to-end speech recognition," in IEEE Journal of Selected Topics in Signal Processing, vol. 11, no. 8, pp. 1240-1253, Dec. 2017.
-9. <u>**T. Hayashi**</u>, S. Watanabe, T. Toda, T. Hori, J. Le Roux, K. Takeda, "Duration-controlled LSTM for polyphonic sound event detection," IEEE/ACM Transactions on Audio, Speech, and Language Processing, Vol. 25, No. 11, pp. 2059-2070, Nov. 2017. **【IEEE Signal Processing Society Japan 2020 Young Author Best Paper Award】**
+1. Y.-C. Wu, <u>**T. Hayashi</u>, P.L. Tobing, K. Kobayashi, T. Toda, "Quasi-periodic WaveNet: an autoregressive raw waveform generative model with pitch-dependent dilated convolution neural network," IEEE/ACM Transactions on Audio, Speech and Language Processing, Vol. 29, pp. 1134-1148, 2021.
+2. Y.-C. Wu, <u>**T. Hayashi**</u>, T. Okamoto, H. Kawai, T. Toda, "Quasi-periodic parallel WaveGAN: a non-autoregressive raw waveform generative model with pitch-dependent dilated convolution neural network," IEEE/ACM Transactions on Audio, Speech and Language Processing, Vol. 29, pp. 792-806, 2021.
+3. W.-C. Huang, <u>**T. Hayashi**</u>, Y.-C. Wu, H. Kameoka, T. Toda, "Pretraining techniques for sequence-to-sequence voice conversion," IEEE/ACM Transactions on Audio, Speech and Language Processing, pp. 745-755, 2021.
+4. P.L. Tobing, Y.-C. Wu, <u>**T. Hayashi**</u>, K. Kobayashi, T. Toda, "An evaluation of voice conversion with neural network spectral mapping models and WaveNet vocoder," APSIPA Transactions on Signal and Information Processing, Vol. 9, e26, pp. 1-14, Nov. 2020.
+5. Y.-C. Wu, P.L. Tobing, <u>**T. Hayashi**</u>, K. Kobayashi, T. Toda, "Non-parallel voice conversion system with WaveNet vocoder and collapsed speech suppression," IEEE Access, Vol. 8, No. 1, pp. 62094-62106, Apr. 2020.
+6. P.L. Tobing, Y.-C. Wu, <u>**T. Hayashi**</u>, K. Kobayashi, T. Toda, "Voice conversion with CycleRNN-based spectral mapping and finly tuned WaveNet vocoder," IEEE Access, Vol. 7, No. 1, pp. 171114-171125, Dec. 2019.
+7.	A. Tamamori, <u>**T. Hayashi**</u>, T. Toda, K. Takeda, "Daily activity recognition based on recurrent neural network using multi-modal signals," APSIPA Transactions on Signal and Information Processing, Vol. 7, e21, pp..1-11, Dec. 2018.
+8.	<u>**T. Hayashi**</u>, M. Nishida, N. Kitaoka, T. Toda, K. Takeda, "Daily activity recognition with large-scaled real-life recording datasets based on deep neural network using multi-modal signals," IEICE Transactions on Fundamentals, Vol. E101-A, No. 1, pp. 199-210, Jan. 2018.
+9.	S. Watanabe, T. Hori, S. Kim, J. R. Hershey, <u>**T. Hayashi**</u>, "Hybrid CTC/Attention architecture for end-to-end speech recognition," in IEEE Journal of Selected Topics in Signal Processing, vol. 11, no. 8, pp. 1240-1253, Dec. 2017.
+10. <u>**T. Hayashi**</u>, S. Watanabe, T. Toda, T. Hori, J. Le Roux, K. Takeda, "Duration-controlled LSTM for polyphonic sound event detection," IEEE/ACM Transactions on Audio, Speech, and Language Processing, Vol. 25, No. 11, pp. 2059-2070, Nov. 2017. **【IEEE Signal Processing Society Japan 2020 Young Author Best Paper Award】**
 
 ### International conference
 
@@ -162,6 +163,7 @@ Tomoki Hayashi received the B.E. degree in engineering and the M.E. and Ph.D. de
 
 ### Domestic conference
 
+1. 畔栁 伊吹, <u>**林 知樹**</u>, 武田 一哉, 戸田 智基, "特徴量空間のクラス重心を考慮した二値分類モデルによる異常音検知," 信学技報, Vol. 120, No. 397, EA2020-79, pp. 114-121, Mar. 2021.
 1. 宮崎 晃一, 小松 達也, <u>**林 知樹**</u>, 渡部 晋治, 戸田 智基, 武田 一哉, "Self-attentionを用いた弱教師あり音響イベント検出," 音講論, 1-1-5, pp. 181-182, Mar. 2020.
 2. 彦坂 秀, 小林 和弘, <u>**林 知樹**</u>, 関 翔悟, 武田 一哉, 坂野 秀樹, 戸田 智基, "模擬難聴処理を活用した補聴器フィルタ設計," 音講論, 1-6-6, pp. 567-568, Sep. 2019.
 3. 安原 和輝, <u>**林 知樹**</u>, 戸田 智基, "End-to-End型テキスト音声合成におけるWaveNetボコーダの学習に関する調査," 音講論, 1-4-9, pp. 951-952, Sep. 2019.
