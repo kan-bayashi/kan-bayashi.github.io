@@ -208,7 +208,7 @@ Tomoki Hayashi received the B.E. degree in engineering and the M.E. and Ph.D. de
 
 ## Softwares
 
-Please do not ask about me about the codebase through e-mail. Please use github issue.
+Please do not ask me about the codebase through e-mail. Please use github issue.
 
 - [ESPnet](https://github.com/espnet/espnet): End-to-end speech processing toolkit.
 - [ParallelWaveGAN](https://github.com/kan-bayashi/ParallelWaveGAN): Unofficial ParallelWaveGAN (+ various GAN vocoders) implementation.
