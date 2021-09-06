@@ -1,5 +1,5 @@
 ---
-date: 2021-06-29T00:00:00+09:00
+date: 2021-09-04T00:00:00+09:00
 type: "index"
 ---
 
@@ -19,6 +19,9 @@ type: "index"
     - Environmental sound processing
         - Sound event detection
         - Anomalous sound detection
+    - Time series processing
+        - Demand forcast
+        - Anomaly detection
 
 
 ## Bio
@@ -199,11 +202,14 @@ Tomoki Hayashi received the B.E. degree in engineering and the M.E. and Ph.D. de
 ### Others
 
 1. I. Kuroyanagi, <u>**T. Hayashi**</u>, Y. Adachi, T. Yoshimura, K. Takeda, T. Toda, "ANOMALOUS SOUND DETECTION WITH ENSEMBLE OF AUTOENCODER AND BINARY CLASSIFICATION APPROACHES," DCASE2021 Challenge technical report, Jul. 2021.
-2. <u>**T. Hayashi**</u>，T. Yoshimura, Y. Adachi, "CONFORMER-BASED ID-AWARE AUTOENCODER FOR UNSUPERVISED ANOMALOUS SOUND DETECTION," DCASE2020 Challenge technical report, Jul. 2020.
+2. C. Narisetty, T. Hayashi, R. Ishizaki, S. Watanabe, K. Takeda, "Leveraging State-of-the-art ASR Techniques to Audio Captioning,"  DCASE2021 Challenge technical report, Jul. 2021.
+3. <u>**T. Hayashi**</u>，T. Yoshimura, Y. Adachi, "CONFORMER-BASED ID-AWARE AUTOENCODER FOR UNSUPERVISED ANOMALOUS SOUND DETECTION," DCASE2020 Challenge technical report, Jul. 2020.
 
 
 ## Softwares
 
+Please do not ask about me about the codebase through e-mail. Please use github issue.
+
 - [ESPnet](https://github.com/espnet/espnet): End-to-end speech processing toolkit.
-- [ParallelWaveGAN](https://github.com/kan-bayashi/ParallelWaveGAN): Unofficial ParallelWaveGAN (+MelGAN) implementation.
+- [ParallelWaveGAN](https://github.com/kan-bayashi/ParallelWaveGAN): Unofficial ParallelWaveGAN (+ various GAN vocoders) implementation.
 - [PytorchWaveNetVocoder](https://github.com/kan-bayashi/PytorchWaveNetVocoder): WaveNet vocoder with noise shaping implementation.
