@@ -1,5 +1,5 @@
 ---
-date: 2022-06-18T00:00:00+09:00
+date: 2023-02-01T00:00:00+09:00
 type: "index"
 ---
 
@@ -80,11 +80,12 @@ Tomoki Hayashi received the B.E. degree in engineering and the M.E. and Ph.D. de
 
 ### Award
 
-1. 日本音響学会 独創研究奨励賞 板倉記念, Mar. 2021.
-2. IEEE Signal Processing Society Japan Young Author Best Paper Award, Dec, 2020.
-3. DCASE2020 Challenge Task 2 Judge's award, Nov. 2020.
-4. 日本音響学会東海支部 優秀発表賞 Jul. 2015.
-5. 日本音響学会秋季研究発表会 学生優秀発表賞, Sep. 2014.
+1. DCASE2022 Challenge Task 2 Judge's award, Nov. 2022.
+2. 日本音響学会 独創研究奨励賞 板倉記念, Mar. 2021.
+3. IEEE Signal Processing Society Japan Young Author Best Paper Award, Dec, 2020.
+4. DCASE2020 Challenge Task 2 Judge's award, Nov. 2020.
+5. 日本音響学会東海支部 優秀発表賞 Jul. 2015.
+6. 日本音響学会秋季研究発表会 学生優秀発表賞, Sep. 2014.
 
 ### Tutorials / Invited talks
 
@@ -100,79 +101,81 @@ Tomoki Hayashi received the B.E. degree in engineering and the M.E. and Ph.D. de
 
 ### Journal papers
 
-1. Y.-C. Wu, <u>**T. Hayashi**</u>, P.L. Tobing, K. Kobayashi, T. Toda, "Quasi-periodic WaveNet: an autoregressive raw waveform generative model with pitch-dependent dilated convolution neural network," IEEE/ACM Transactions on Audio, Speech and Language Processing, Vol. 29, pp. 1134-1148, 2021.
-2. Y.-C. Wu, <u>**T. Hayashi**</u>, T. Okamoto, H. Kawai, T. Toda, "Quasi-periodic parallel WaveGAN: a non-autoregressive raw waveform generative model with pitch-dependent dilated convolution neural network," IEEE/ACM Transactions on Audio, Speech and Language Processing, Vol. 29, pp. 792-806, 2021.
-3. W.-C. Huang, <u>**T. Hayashi**</u>, Y.-C. Wu, H. Kameoka, T. Toda, "Pretraining techniques for sequence-to-sequence voice conversion," IEEE/ACM Transactions on Audio, Speech and Language Processing, pp. 745-755, 2021.
-4. P.L. Tobing, Y.-C. Wu, <u>**T. Hayashi**</u>, K. Kobayashi, T. Toda, "An evaluation of voice conversion with neural network spectral mapping models and WaveNet vocoder," APSIPA Transactions on Signal and Information Processing, Vol. 9, e26, pp. 1-14, Nov. 2020.
-5. Y.-C. Wu, P.L. Tobing, <u>**T. Hayashi**</u>, K. Kobayashi, T. Toda, "Non-parallel voice conversion system with WaveNet vocoder and collapsed speech suppression," IEEE Access, Vol. 8, No. 1, pp. 62094-62106, Apr. 2020.
-6. P.L. Tobing, Y.-C. Wu, <u>**T. Hayashi**</u>, K. Kobayashi, T. Toda, "Voice conversion with CycleRNN-based spectral mapping and finly tuned WaveNet vocoder," IEEE Access, Vol. 7, No. 1, pp. 171114-171125, Dec. 2019.
-7.	A. Tamamori, <u>**T. Hayashi**</u>, T. Toda, K. Takeda, "Daily activity recognition based on recurrent neural network using multi-modal signals," APSIPA Transactions on Signal and Information Processing, Vol. 7, e21, pp..1-11, Dec. 2018.
-8.	<u>**T. Hayashi**</u>, M. Nishida, N. Kitaoka, T. Toda, K. Takeda, "Daily activity recognition with large-scaled real-life recording datasets based on deep neural network using multi-modal signals," IEICE Transactions on Fundamentals, Vol. E101-A, No. 1, pp. 199-210, Jan. 2018.
-9.	S. Watanabe, T. Hori, S. Kim, J. R. Hershey, <u>**T. Hayashi**</u>, "Hybrid CTC/Attention architecture for end-to-end speech recognition," in IEEE Journal of Selected Topics in Signal Processing, vol. 11, no. 8, pp. 1240-1253, Dec. 2017.
-10. <u>**T. Hayashi**</u>, S. Watanabe, T. Toda, T. Hori, J. Le Roux, K. Takeda, "Duration-controlled LSTM for polyphonic sound event detection," IEEE/ACM Transactions on Audio, Speech, and Language Processing, Vol. 25, No. 11, pp. 2059-2070, Nov. 2017. **【IEEE Signal Processing Society Japan 2020 Young Author Best Paper Award】**
+1. W.-C. Huang, <u>**T. Hayashi**</u>, Y.-C. Wu, H. Kameoka, T. Toda, "A comparative study of self-supervised speech representation based voice conversion," IEEE Journal of Selected Topics in Signal Processing, Vol. 16, No. 6, pp.1308-1318, 2022.
+2. Y.-C. Wu, <u>**T. Hayashi**</u>, P.L. Tobing, K. Kobayashi, T. Toda, "Quasi-periodic WaveNet: an autoregressive raw waveform generative model with pitch-dependent dilated convolution neural network," IEEE/ACM Transactions on Audio, Speech and Language Processing, Vol. 29, pp. 1134-1148, 2021.
+3. Y.-C. Wu, <u>**T. Hayashi**</u>, T. Okamoto, H. Kawai, T. Toda, "Quasi-periodic parallel WaveGAN: a non-autoregressive raw waveform generative model with pitch-dependent dilated convolution neural network," IEEE/ACM Transactions on Audio, Speech and Language Processing, Vol. 29, pp. 792-806, 2021.
+4. W.-C. Huang, <u>**T. Hayashi**</u>, Y.-C. Wu, H. Kameoka, T. Toda, "Pretraining techniques for sequence-to-sequence voice conversion," IEEE/ACM Transactions on Audio, Speech and Language Processing, pp. 745-755, 2021.
+5. P.L. Tobing, Y.-C. Wu, <u>**T. Hayashi**</u>, K. Kobayashi, T. Toda, "An evaluation of voice conversion with neural network spectral mapping models and WaveNet vocoder," APSIPA Transactions on Signal and Information Processing, Vol. 9, e26, pp. 1-14, Nov. 2020.
+6. Y.-C. Wu, P.L. Tobing, <u>**T. Hayashi**</u>, K. Kobayashi, T. Toda, "Non-parallel voice conversion system with WaveNet vocoder and collapsed speech suppression," IEEE Access, Vol. 8, No. 1, pp. 62094-62106, Apr. 2020.
+7. P.L. Tobing, Y.-C. Wu, <u>**T. Hayashi**</u>, K. Kobayashi, T. Toda, "Voice conversion with CycleRNN-based spectral mapping and finly tuned WaveNet vocoder," IEEE Access, Vol. 7, No. 1, pp. 171114-171125, Dec. 2019.
+8.	A. Tamamori, <u>**T. Hayashi**</u>, T. Toda, K. Takeda, "Daily activity recognition based on recurrent neural network using multi-modal signals," APSIPA Transactions on Signal and Information Processing, Vol. 7, e21, pp..1-11, Dec. 2018.
+9.	<u>**T. Hayashi**</u>, M. Nishida, N. Kitaoka, T. Toda, K. Takeda, "Daily activity recognition with large-scaled real-life recording datasets based on deep neural network using multi-modal signals," IEICE Transactions on Fundamentals, Vol. E101-A, No. 1, pp. 199-210, Jan. 2018.
+10.	S. Watanabe, T. Hori, S. Kim, J. R. Hershey, <u>**T. Hayashi**</u>, "Hybrid CTC/Attention architecture for end-to-end speech recognition," in IEEE Journal of Selected Topics in Signal Processing, vol. 11, no. 8, pp. 1240-1253, Dec. 2017.
+11. <u>**T. Hayashi**</u>, S. Watanabe, T. Toda, T. Hori, J. Le Roux, K. Takeda, "Duration-controlled LSTM for polyphonic sound event detection," IEEE/ACM Transactions on Audio, Speech, and Language Processing, Vol. 25, No. 11, pp. 2059-2070, Nov. 2017. **【IEEE Signal Processing Society Japan 2020 Young Author Best Paper Award】**
 
 ### International conference
 
-1. J. Shi, S. Guo, T. Qian, N. Huo, T. Hayashi, Y. Wu, F. Xu, X. Chang, H. Li, P. Wu, S. Watanabe, Q. Jin, "Muskits: an End-to-End Music Processing Toolkit for Singing Voice Synthesis," Proc. INTERSPEECH, Sep. 2022. (Accepted).
-2. S. Kim, <u>**T. Hayashi**</u>, T. Toda, "Note-level automatic guitar transcription using attention mechanism," Proc. EUSIPCO, Sep. 2022. (Accepted)
-3. I. Kuroyanagi, <u>**T. Hayashi**</u>, K. Takeda, T. Toda, "Improvement of serial approach to anomalous sound detection by incorporating two binary cross-entropies for outlier exposure," Proc. EUSIPCO, Sep. 2022. (Accepted)
-4. W.-C. Huang, S.-W. Yang, <u>**T. Hayashi**</u>, H.-Y. Lee, S. Watanabe, T. Toda, "S3PRL-VC: open-source voice conversion framework with self-supervised speech representations," Proc. ICASSP, pp. 6552-6556, May. 2022.
-5. <u>**T. Hayashi**</u>, K. Kobayashi, T. Toda, "An investigation of streaming non-autoregressive sequence-to-sequence voice conversion," Proc. ICASSP, pp. 6802-6806, May. 2022.
-6. W.-C. Huang, <u>**T. Hayashi**</u>, X. Li, S. Watanabe, T. Toda, "On prosody modeling for ASR+TTS based voice conversion," Proc. IEEE ASRU, pp. 642-649, Dec. 2021.
-7. I. Kuroyanagi, <u>**T. Hayashi**</u>, Y. Adachi, T. Yoshimura, K. Takeda, T. Toda, "An ensemble approach to anomalous sound detection based on conformer-based autoencoder and binary classifier incorporated with metric learning," Proc. DCASE 2021 Workshop, pp. 110-114, Nov. 2021.
-8. T. Komatsu, S. Watanabe, K. Miyazaki, <u>**T. Hayashi**</u>, "Acoustic Event Detection with Classifier Chains," Proc. INTERSPEECH, pp. 601-605, 2021.
-9. I. Kuroyanagi, <u>**T. Hayashi**</u>, K. Takeda, T. Toda, "Anomalous sound detection using a binary classification model and class centroids," Proc. EUSIPCO, pp. 1995-1999, 2021.
-10. <u>**T. Hayashi**</u>, T. Yoshimura, M. Inuzuka, I. Kuroyanagi, O. Segawa, "Spontaneous speech summarization: Transformers all the way through," Proc. EUSIPCO, pp. 456-460, 2021.
-11. <u>**T. Hayashi**</u>, W.-C. Huang, K. Kobayashi, T. Toda, "Non-autoregressive sequence-to-sequence voice conversion," Proc. ICASSP, pp. 7068-7072, 2021.
-12. P. Guo, F. Boyer, X. Chang, <u>**T. Hayashi**</u>, Y. Higuchi, H. Inaguma, N. Kamo, C. Li, D. G. Romero, J. Shi, J. Shi, S. Watanabe, K. Wei, W. Zhang, Y. Zhang, "Recent Developments on ESPnet Toolkit Boosted by Conformer," Proc. ICASSP, pp. 5874-5878, 2021.
-13. K. Kobayashi, W.-C. Huang, Y.-C. Wu, S. P.L. Tobing, <u>**T. Hayashi**</u>, T. Toda, "Crank: an open-source software for nonparallel voice conversion based on vector-quantized variational autoencoder," Proc. ICASSP, pp.5934-5938, 2021.
-14. W.-C. Huang, Y.-C. Wu, <u>**T. Hayashi**</u>, T. Toda, "Any-to-one sequence-to-sequence voice conversion using self-supervised discrete speech representations," Proc. ICASSP, pp. 5944-5948, 2021.
-15. C. Li, J. Shi, W. Zhang, A. S. Subramanian, X. Chang, N. Kamo, M. Hira, <u>**T. Hayashi**</u>, C. Boeddeker, Z. Chen, S. Watanabe, "ESPnet-SE: End-to-end speech enhancement and separation toolkit designed for ASR integration," Proc. IEEE SLT, pp. 785-792, Dec. 2020.
-16. K. Miyazaki, T. Komatsu, <u>**T. Hayashi**</u>, S. Watanabe, T. Toda, K. Takeda, "Conformer-based sound event detection with semi-supervised learning and data augmentation," Proc. DCASE 2020 Workshop, pp. 100-104, Nov. 2020.
-17. W.-C. Huang, <u>**T. Hayashi**</u>, S. Watanabe, T. Toda, "The sequence-to-sequence baseline for the Voice Conversion Challenge 2020: cascading ASR and TTS," Proc. Joint workshop for the Blizzard Challenge and Voice Conversion Challenge 2020, pp. 160-164, Oct. 2020.
-18. W.-C. Huang, <u>**T. Hayashi**</u>, Y.-C. Wu, H. Kameoka, T. Toda, "Voice transformer network: sequence-to-sequence voice conversion using transformer with text-to-speech pretraining," Proc. INTERSPEECH, pp. 4675-4680, Oct. 2020.
-19. Y.-C. Wu, <u>**T. Hayashi**</u>, T. Okamoto, H. Kawai, T. Toda, "Quasi-periodic parallel WaveGAN vocoder: a non-autoregressive pitch-dependent dilated convolution model for parametric speech generation," Proc. INTERSPEECH, pp. 3535-3539, Oct. 2020.
-20. S. Hikosaka, S. Seki, <u>**T. Hayashi**</u>, K. Kobayashi, K. Takeda, H. Banno, T. Toda, "Intelligibility enhancement based on speech waveform modification using hearing impairment simulator," Proc. INTERSPEECH, pp. 4059-4063, Oct. 2020.
-21. P.L. Tobing, <u>**T. Hayashi**</u>, Y.-C. Wu, K. Kobayashi, T. Toda, "Cyclic spectral modeling for unsupervised unit discovery into voice conversion with excitation and waveform modeling," Proc. INTERSPEECH, pp. 3540-3544, Oct. 2020.
-22. H. Inaguma, S. Kiyono, K. Duh, S. Karita, N. E. Yalta Soplin, <u>**T. Hayashi**</u>, S. Watanabe, "ESPnet-ST: All-in-One Speech Translation Toolkit," Proc. the 58th Annual Meeting of the Association for Computational Linguistics: System Demonstrations, pp. 302-311, Full virtual, Jul. 2020.
-23. T. Yoshimura, <u>**T. Hayashi**</u>, K. Takeda, S. Watanabe, "End-to-end automatic speech recognition integrated with ctc-based voice activity detection," Proc. IEEE ICASSP, pp. 6999-7003, Full virtual, May 2020.
-24. K. Inoue, S. Hara, M. Abe, <u>**T. Hayashi**</u>, R. Yamamoto, S. Watanabe, "Semi-Supervised Speaker Adaptation for End-to-End Speech Synthesis with Pretrained Models," Proc. IEEE ICASSP, pp. 7634-7638, Full virtual, May 2020.
-25. K. Miyazaki, T. Komatsu, <u>**T. Hayashi**</u>, S. Watanabe, T. Toda, K. Takeda, "Weakly-supervised sound event detection with self-attention," Proc. IEEE ICASSP, pp. 66-70, Full virtual, May 2020.
-26. P.L. Tobing, Y.-C. Wu, <u>**T. Hayashi**</u>, K. Kobayashi, T. Toda, "Efficient shallow WaveNet vocoder using multiple samples output based on Laplacian distribution and linear prediction," Proc. IEEE ICASSP, pp. 7204-7208, Full virtual, May 2020.
-27. <u>**T. Hayashi**</u>, R. Yamamoto, K. Inoue, T. Yoshimura, S. Watanabe, T. Toda, K. Takeda, Y. Zhang, X. Tan, "ESPnet-TTS: Unified, reproducible, and integratable open source end-to-end text-to-speech toolkit," Proc. IEEE ICASSP, pp. 7654-7658, Full virtual, May 2020.
-28. S. Karita, N. Chen, <u>**T. Hayashi**</u>, T. Hori, H. Inaguma, Z. Jiang, M. Someki, N. E. Yalta Soplin, R. Yamamoto, X. Wang, S. Watanabe, T. Yoshimura, and W. Zhang, "A comparative study on Transformer vs RNN in speech applications," Proc. IEEE ASRU, pp. 449-456, Sentosa, Singapore, Dec. 2019.
-29. P.L. Tobing, <u>**T. Hayashi**</u>, T. Toda, "Investigation of shallow WaveNet vocoder with Laplacian distribution output," Proc. IEEE ASRU, pp. 176-183, Sentosa, Singapore, Dec. 2019.
-30. O. Segawa, T. Hayashi, K. Takeda, "Attention-Based Speech Recognition Using Gaze Information," Proc. IEEE ASRU, pp. 465-470, Sentosa, Singapore, Dec. 2019.
-31. Y.-C. Wu, P.L. Tobing, <u>**T. Hayashi**</u>, K. Kobayashi, T. Toda, "Statistical voice conversion with quasi-periodic WaveNet vocoder," Proc. 10th ISCA Speech Synthesis Workshop (SSW10), pp. 63-68, Vienna, Austria, Sep. 2019.
-32. Y.-C. Wu, <u>**T. Hayashi**</u>, P.L. Tobing, K. Kobayashi, T. Toda, "Quasi-periodic WaveNet vocoder: a pitch dependent dilated convolution model for parametric speech generation," Proc. INTERSPEECH, pp. 196-200, Graz, Austria, Sep. 2019.
-33. P.L. Tobing, Y.-C. Wu, <u>**T. Hayashi**</u>, K. Kobayashi, T. Toda, "Non-parallel voice conversion with cyclic variational autoencoder," Proc. INTERSPEECH, pp. 674-678, Graz, Austria, Sep. 2019.
-34. W.-C. Huang, Y.-C. Wu, C.-C. Lo, P.L. Tobing, <u>**T. Hayashi**</u>, K. Kobayashi, T. Toda, Y. Tsao, H.-M. Wang, "Investigation of F0 conditioning and fully convolutional networks in variational autoencoder based voice conversion," Proc. INTERSPEECH, pp. 709-713, Graz, Austria, Sep. 2019.
-35. <u>**T. Hayashi**</u>, S. Watanabe, T. Toda, K. Takeda, S. Toshniwal, K. Livescu, "Pre-trained text embeddings for enhanced text-to-speech synthesis," Proc. INTERSPEECH, pp. 4430-4434, Graz, Austria, Sep. 2019.
-36. W.-C. Huang, Y.-C. Wu, H.-T. Hwang, P.L. Tobing, <u>**T. Hayashi**</u>, K. Kobayashi, T. Toda, Y. Tsao, H.-M. Wang, "Refined WaveNet vocoder for variational autoencoder based voice conversion," Proc. EUSIPCO, 5 pages, A Coruna, Spain, Sep. 2019.
-37. T. Hori, R. Astudillo, <u>**T. Hayashi**</u>, Y. Zhang, S. Watanabe, and J. LeRoux, "Cycle-consistency training for end-to-end speech recognition," Proc. IEEE ICASSP, pp. 6271-6275, Brighton, UK, May 2019.
-38. T. Komatsu, <u>**T. Hayashi**</u>, R. Kondo, T. Toda, K. Takeda, "Scene-dependent anomalous acoustic-event detection based on conditional WaveNet and i-Vector," Proc. IEEE ICASSP, pp. 870-874, Brighton, UK, May 2019.
-39. P.L. Tobing, Y. Wu, <u>**T. Hayashi**</u>, K. Kobayashi, T. Toda, "Voice conversion with cyclic recurrent neural network and fine-tuned WaveNet vocoder," Proc. IEEE ICASSP, pp. 6815-6819, Brighton, UK, May 2019.
-40. <u>**T. Hayashi**</u>, S. Watanabe, Y. Zhang, T. Toda, T. Hori, R. Astudillo, K. Takeda, "Back-translation-style data augmentation for end-to-end ASR," Proc. IEEE SLT, pp. 426-433, Dec. 2018.
-41. P. L. Tobing, <u>**T. Hayashi**</u>, Y. Wu, K. Kobayashi, T. Toda, "An evaluation of deep spectral mappings and WaveNet vocoder for voice conversion," Proc. IEEE SLT, pp. 297-303, Dec. 2018.
-42. K. Miyazaki, <u>**T. Hayashi**</u>, T. Toda, K. Takeda, "Connectionist temporal classification-based sound event encoder for converting sound events into onomatopoeia representations," Proc. EUSIPCO, pp. 857-861, Sep. 2018.
-43. <u>**T. Hayashi**</u>, T. Komatsu, R. Kondo, T. Toda, K. Takeda, "Anomalous sound event detection based on WaveNet," Proc. EUSIPCO, pp. 2508-2512, Sep. 2018.
-44. <u>**T. Hayashi**</u>, S. Watanabe, T. Toda, K. Takeda, "Multi-head decoder for end-to-end speech recognition," Proc. INTERSPEECH, pp. 801-805, Sep. 2018.
-45. Y. Wu, K. Kobayashi, <u>**T. Hayashi**</u>, P. L. Tobing, T. Toda, "Collapsed segment detection and reduction for WaveNet vocoder," Proc. INTERSPEECH, pp. 1998-1992, Sep. 2018.
-46. Y. Wu, P. L. Tobing, <u>**T. Hayashi**</u>, K. Kobayashi, T. Toda, "The NU non-parallel voice conversion system for the voice conversion challenge 2018," Proc. Odyssey 2018, pp. 211-218, June 2018.
-47. P. L. Tobing, Y. Wu, <u>**T. Hayashi**</u>, K. Kobayashi, T. Toda, "NU voice conversion system for the voice conversion challenge 2018," Proc. Odyssey 2018, pp. 219-226, June 2018.
-48. <u>**T. Hayashi**</u>, A. Tamamori, K. Kobayashi, K. Takeda, T. Toda, "An investigation of multi-speaker training for WaveNet vocoder," Proc. ASRU, pp. 712-718, Dec. 2017.
-49. A. Tamamori, <u>**T. Hayashi**</u>, T. Toda, K. Takeda, "Investigation of effectiveness on recurrent neural network for daily activity recognition using multi-modal signals," Proc. APSIPA, 7 pages, Kuala Lumpur, Malaysia, Dec. 2017.
-50. A. Tamamori, <u>**T. Hayashi**</u>, K. Kobayashi, K. Takeda, T. Toda, "Speaker-dependent WaveNet vocoder," Proc. INTERSPEECH, pp. 1118-1122, Aug. 2017.
-51. K. Kobayashi, <u>**T. Hayashi**</u>, A. Tamamori, T. Toda, "Statistical voice conversion with WaveNet-based waveform generation," Proc. INTERSPEECH, pp. 1138-1142, Aug. 2017.
-52. <u>**T. Hayashi**</u>, S. Watanabe, T. Toda, T. Hori, J. Le Roux, K. Takeda, "BLSTM-HMM hybrid system combined with sound activity detection network for polyphonic sound event detection," Proc. ICASSP, pp. 766-770, Mar. 2017.
-53. A. Tamamori, <u>**T. Hayashi**</u>, T. Toda, K. Takeda, "Investigation on recurrent neural network architectures for daily activity recognition," Proc. UV2016, Oct. 2016.
-54. <u>**T. Hayashi**</u>, S. Watanabe, T. Toda, T. Hori, J. Le Roux, K. Takeda, "Bidirectional LSTM-HMM hybrid system for polyphonic sound event detection," Proc. DCASE2016 workshop, 5 pages, Sep. 2016.
-55. S. Araki, <u>**T. Hayashi**</u>, M. Delcroix, M. Fujimoto, K. Takeda, T. Nakatani, "Exploring multi-channel features for denoising-autoencoder-based speech enhancement," Proc. ICASSP, pp.116-120, Apr. 2015.
-56. <u>**T. Hayashi**</u>, S. Watanabe, T. Toda, T. Tori, J. LeRoux, K. Takeda, "Convolutional bidirectional long short-term memory hidden Markov model hybrid system for polyphonic sound event detection," Proc. 5th Joint Meeting of the Acoustical Society of America and Acoustical Society of Japan, Dec. 2016.
-57. H. Erdogan, <u>**T. Hayashi**</u>, J. R. Hershey, T. Hori, C. Hori, W. Hsu, S. Kim, J. LeRoux, Z. Meng, S. Watanabe, "Multi-channel speech recognition: LSTMs all the way through," Proc. CHiME4 workshop, 2016.
-58. <u>**T. Hayashi**</u>, M. Nishida, N. Kitaoka, K. Takeda, "Daily activity recognition based on DNN using environmental sound and acceleration signals," Proc. EUSIPCO, pp. 2351-2355, Sep. 2015.
-59. N. Kitaoka, <u>**T. Hayashi**</u>, K. Takeda, "Noisy speech recognition using blind spatial subtraction array technique and deep bottleneck features," Proc. APSIPA, 4 pages, Dec. 2014.
-60. <u>**T. Hayashi**</u>, N. Kitaoka, C. Miyajima, K. Takeda, "Investigating the robustness of deep bottleneck features for recognizing speech of speakers of various ages", Proc. FORUM ACUSTICUM, 4 pages, Sep, 2014
+1. M. Someki, Y. Higuchi, <u>**T. Hayashi**</u>, S. Watanabe, "ESPnet-ONNX: Bridging a Gap Between Research and Production", Proc. APSIPA, pp.420-427, Nov. 2022.
+2. J. Shi, S. Guo, T. Qian, N. Huo, <u>**T. Hayashi**</u>, Y. Wu, F. Xu, X. Chang, H. Li, P. Wu, S. Watanabe, Q. Jin, "Muskits: an End-to-End Music Processing Toolkit for Singing Voice Synthesis," Proc. INTERSPEECH, pp.4277-4281, Sep. 2022.
+3. S. Kim, <u>**T. Hayashi**</u>, T. Toda, "Note-level automatic guitar transcription using attention mechanism," Proc. EUSIPCO, pp.229-233, Sep. 2022.
+4. I. Kuroyanagi, <u>**T. Hayashi**</u>, K. Takeda, T. Toda, "Improvement of serial approach to anomalous sound detection by incorporating two binary cross-entropies for outlier exposure," Proc. EUSIPCO, pp.294-298, Sep. 2022.
+5. W.-C. Huang, S.-W. Yang, <u>**T. Hayashi**</u>, H.-Y. Lee, S. Watanabe, T. Toda, "S3PRL-VC: open-source voice conversion framework with self-supervised speech representations," Proc. ICASSP, pp. 6552-6556, May. 2022.
+6. <u>**T. Hayashi**</u>, K. Kobayashi, T. Toda, "An investigation of streaming non-autoregressive sequence-to-sequence voice conversion," Proc. ICASSP, pp. 6802-6806, May. 2022.
+7. W.-C. Huang, <u>**T. Hayashi**</u>, X. Li, S. Watanabe, T. Toda, "On prosody modeling for ASR+TTS based voice conversion," Proc. IEEE ASRU, pp. 642-649, Dec. 2021.
+8. I. Kuroyanagi, <u>**T. Hayashi**</u>, Y. Adachi, T. Yoshimura, K. Takeda, T. Toda, "An ensemble approach to anomalous sound detection based on conformer-based autoencoder and binary classifier incorporated with metric learning," Proc. DCASE 2021 Workshop, pp. 110-114, Nov. 2021.
+9. T. Komatsu, S. Watanabe, K. Miyazaki, <u>**T. Hayashi**</u>, "Acoustic Event Detection with Classifier Chains," Proc. INTERSPEECH, pp. 601-605, 2021.
+10. I. Kuroyanagi, <u>**T. Hayashi**</u>, K. Takeda, T. Toda, "Anomalous sound detection using a binary classification model and class centroids," Proc. EUSIPCO, pp. 1995-1999, 2021.
+11. <u>**T. Hayashi**</u>, T. Yoshimura, M. Inuzuka, I. Kuroyanagi, O. Segawa, "Spontaneous speech summarization: Transformers all the way through," Proc. EUSIPCO, pp. 456-460, 2021.
+12. <u>**T. Hayashi**</u>, W.-C. Huang, K. Kobayashi, T. Toda, "Non-autoregressive sequence-to-sequence voice conversion," Proc. ICASSP, pp. 7068-7072, 2021.
+13. P. Guo, F. Boyer, X. Chang, <u>**T. Hayashi**</u>, Y. Higuchi, H. Inaguma, N. Kamo, C. Li, D. G. Romero, J. Shi, J. Shi, S. Watanabe, K. Wei, W. Zhang, Y. Zhang, "Recent Developments on ESPnet Toolkit Boosted by Conformer," Proc. ICASSP, pp. 5874-5878, 2021.
+14. K. Kobayashi, W.-C. Huang, Y.-C. Wu, S. P.L. Tobing, <u>**T. Hayashi**</u>, T. Toda, "Crank: an open-source software for nonparallel voice conversion based on vector-quantized variational autoencoder," Proc. ICASSP, pp.5934-5938, 2021.
+15. W.-C. Huang, Y.-C. Wu, <u>**T. Hayashi**</u>, T. Toda, "Any-to-one sequence-to-sequence voice conversion using self-supervised discrete speech representations," Proc. ICASSP, pp. 5944-5948, 2021.
+16. C. Li, J. Shi, W. Zhang, A. S. Subramanian, X. Chang, N. Kamo, M. Hira, <u>**T. Hayashi**</u>, C. Boeddeker, Z. Chen, S. Watanabe, "ESPnet-SE: End-to-end speech enhancement and separation toolkit designed for ASR integration," Proc. IEEE SLT, pp. 785-792, Dec. 2020.
+17. K. Miyazaki, T. Komatsu, <u>**T. Hayashi**</u>, S. Watanabe, T. Toda, K. Takeda, "Conformer-based sound event detection with semi-supervised learning and data augmentation," Proc. DCASE 2020 Workshop, pp. 100-104, Nov. 2020.
+18. W.-C. Huang, <u>**T. Hayashi**</u>, S. Watanabe, T. Toda, "The sequence-to-sequence baseline for the Voice Conversion Challenge 2020: cascading ASR and TTS," Proc. Joint workshop for the Blizzard Challenge and Voice Conversion Challenge 2020, pp. 160-164, Oct. 2020.
+19. W.-C. Huang, <u>**T. Hayashi**</u>, Y.-C. Wu, H. Kameoka, T. Toda, "Voice transformer network: sequence-to-sequence voice conversion using transformer with text-to-speech pretraining," Proc. INTERSPEECH, pp. 4675-4680, Oct. 2020.
+20. Y.-C. Wu, <u>**T. Hayashi**</u>, T. Okamoto, H. Kawai, T. Toda, "Quasi-periodic parallel WaveGAN vocoder: a non-autoregressive pitch-dependent dilated convolution model for parametric speech generation," Proc. INTERSPEECH, pp. 3535-3539, Oct. 2020.
+21. S. Hikosaka, S. Seki, <u>**T. Hayashi**</u>, K. Kobayashi, K. Takeda, H. Banno, T. Toda, "Intelligibility enhancement based on speech waveform modification using hearing impairment simulator," Proc. INTERSPEECH, pp. 4059-4063, Oct. 2020.
+22. P.L. Tobing, <u>**T. Hayashi**</u>, Y.-C. Wu, K. Kobayashi, T. Toda, "Cyclic spectral modeling for unsupervised unit discovery into voice conversion with excitation and waveform modeling," Proc. INTERSPEECH, pp. 3540-3544, Oct. 2020.
+23. H. Inaguma, S. Kiyono, K. Duh, S. Karita, N. E. Yalta Soplin, <u>**T. Hayashi**</u>, S. Watanabe, "ESPnet-ST: All-in-One Speech Translation Toolkit," Proc. the 58th Annual Meeting of the Association for Computational Linguistics: System Demonstrations, pp. 302-311, Full virtual, Jul. 2020.
+24. T. Yoshimura, <u>**T. Hayashi**</u>, K. Takeda, S. Watanabe, "End-to-end automatic speech recognition integrated with ctc-based voice activity detection," Proc. IEEE ICASSP, pp. 6999-7003, Full virtual, May 2020.
+25. K. Inoue, S. Hara, M. Abe, <u>**T. Hayashi**</u>, R. Yamamoto, S. Watanabe, "Semi-Supervised Speaker Adaptation for End-to-End Speech Synthesis with Pretrained Models," Proc. IEEE ICASSP, pp. 7634-7638, Full virtual, May 2020.
+26. K. Miyazaki, T. Komatsu, <u>**T. Hayashi**</u>, S. Watanabe, T. Toda, K. Takeda, "Weakly-supervised sound event detection with self-attention," Proc. IEEE ICASSP, pp. 66-70, Full virtual, May 2020.
+27. P.L. Tobing, Y.-C. Wu, <u>**T. Hayashi**</u>, K. Kobayashi, T. Toda, "Efficient shallow WaveNet vocoder using multiple samples output based on Laplacian distribution and linear prediction," Proc. IEEE ICASSP, pp. 7204-7208, Full virtual, May 2020.
+28. <u>**T. Hayashi**</u>, R. Yamamoto, K. Inoue, T. Yoshimura, S. Watanabe, T. Toda, K. Takeda, Y. Zhang, X. Tan, "ESPnet-TTS: Unified, reproducible, and integratable open source end-to-end text-to-speech toolkit," Proc. IEEE ICASSP, pp. 7654-7658, Full virtual, May 2020.
+29. S. Karita, N. Chen, <u>**T. Hayashi**</u>, T. Hori, H. Inaguma, Z. Jiang, M. Someki, N. E. Yalta Soplin, R. Yamamoto, X. Wang, S. Watanabe, T. Yoshimura, and W. Zhang, "A comparative study on Transformer vs RNN in speech applications," Proc. IEEE ASRU, pp. 449-456, Sentosa, Singapore, Dec. 2019.
+30. P.L. Tobing, <u>**T. Hayashi**</u>, T. Toda, "Investigation of shallow WaveNet vocoder with Laplacian distribution output," Proc. IEEE ASRU, pp. 176-183, Sentosa, Singapore, Dec. 2019.
+31. O. Segawa, T. Hayashi, K. Takeda, "Attention-Based Speech Recognition Using Gaze Information," Proc. IEEE ASRU, pp. 465-470, Sentosa, Singapore, Dec. 2019.
+32. Y.-C. Wu, P.L. Tobing, <u>**T. Hayashi**</u>, K. Kobayashi, T. Toda, "Statistical voice conversion with quasi-periodic WaveNet vocoder," Proc. 10th ISCA Speech Synthesis Workshop (SSW10), pp. 63-68, Vienna, Austria, Sep. 2019.
+33. Y.-C. Wu, <u>**T. Hayashi**</u>, P.L. Tobing, K. Kobayashi, T. Toda, "Quasi-periodic WaveNet vocoder: a pitch dependent dilated convolution model for parametric speech generation," Proc. INTERSPEECH, pp. 196-200, Graz, Austria, Sep. 2019.
+34. P.L. Tobing, Y.-C. Wu, <u>**T. Hayashi**</u>, K. Kobayashi, T. Toda, "Non-parallel voice conversion with cyclic variational autoencoder," Proc. INTERSPEECH, pp. 674-678, Graz, Austria, Sep. 2019.
+35. W.-C. Huang, Y.-C. Wu, C.-C. Lo, P.L. Tobing, <u>**T. Hayashi**</u>, K. Kobayashi, T. Toda, Y. Tsao, H.-M. Wang, "Investigation of F0 conditioning and fully convolutional networks in variational autoencoder based voice conversion," Proc. INTERSPEECH, pp. 709-713, Graz, Austria, Sep. 2019.
+36. <u>**T. Hayashi**</u>, S. Watanabe, T. Toda, K. Takeda, S. Toshniwal, K. Livescu, "Pre-trained text embeddings for enhanced text-to-speech synthesis," Proc. INTERSPEECH, pp. 4430-4434, Graz, Austria, Sep. 2019.
+37. W.-C. Huang, Y.-C. Wu, H.-T. Hwang, P.L. Tobing, <u>**T. Hayashi**</u>, K. Kobayashi, T. Toda, Y. Tsao, H.-M. Wang, "Refined WaveNet vocoder for variational autoencoder based voice conversion," Proc. EUSIPCO, 5 pages, A Coruna, Spain, Sep. 2019.
+38. T. Hori, R. Astudillo, <u>**T. Hayashi**</u>, Y. Zhang, S. Watanabe, and J. LeRoux, "Cycle-consistency training for end-to-end speech recognition," Proc. IEEE ICASSP, pp. 6271-6275, Brighton, UK, May 2019.
+39. T. Komatsu, <u>**T. Hayashi**</u>, R. Kondo, T. Toda, K. Takeda, "Scene-dependent anomalous acoustic-event detection based on conditional WaveNet and i-Vector," Proc. IEEE ICASSP, pp. 870-874, Brighton, UK, May 2019.
+40. P.L. Tobing, Y. Wu, <u>**T. Hayashi**</u>, K. Kobayashi, T. Toda, "Voice conversion with cyclic recurrent neural network and fine-tuned WaveNet vocoder," Proc. IEEE ICASSP, pp. 6815-6819, Brighton, UK, May 2019.
+41. <u>**T. Hayashi**</u>, S. Watanabe, Y. Zhang, T. Toda, T. Hori, R. Astudillo, K. Takeda, "Back-translation-style data augmentation for end-to-end ASR," Proc. IEEE SLT, pp. 426-433, Dec. 2018.
+42. P. L. Tobing, <u>**T. Hayashi**</u>, Y. Wu, K. Kobayashi, T. Toda, "An evaluation of deep spectral mappings and WaveNet vocoder for voice conversion," Proc. IEEE SLT, pp. 297-303, Dec. 2018.
+43. K. Miyazaki, <u>**T. Hayashi**</u>, T. Toda, K. Takeda, "Connectionist temporal classification-based sound event encoder for converting sound events into onomatopoeia representations," Proc. EUSIPCO, pp. 857-861, Sep. 2018.
+44. <u>**T. Hayashi**</u>, T. Komatsu, R. Kondo, T. Toda, K. Takeda, "Anomalous sound event detection based on WaveNet," Proc. EUSIPCO, pp. 2508-2512, Sep. 2018.
+45. <u>**T. Hayashi**</u>, S. Watanabe, T. Toda, K. Takeda, "Multi-head decoder for end-to-end speech recognition," Proc. INTERSPEECH, pp. 801-805, Sep. 2018.
+46. Y. Wu, K. Kobayashi, <u>**T. Hayashi**</u>, P. L. Tobing, T. Toda, "Collapsed segment detection and reduction for WaveNet vocoder," Proc. INTERSPEECH, pp. 1998-1992, Sep. 2018.
+47. Y. Wu, P. L. Tobing, <u>**T. Hayashi**</u>, K. Kobayashi, T. Toda, "The NU non-parallel voice conversion system for the voice conversion challenge 2018," Proc. Odyssey 2018, pp. 211-218, June 2018.
+48. P. L. Tobing, Y. Wu, <u>**T. Hayashi**</u>, K. Kobayashi, T. Toda, "NU voice conversion system for the voice conversion challenge 2018," Proc. Odyssey 2018, pp. 219-226, June 2018.
+49. <u>**T. Hayashi**</u>, A. Tamamori, K. Kobayashi, K. Takeda, T. Toda, "An investigation of multi-speaker training for WaveNet vocoder," Proc. ASRU, pp. 712-718, Dec. 2017.
+50. A. Tamamori, <u>**T. Hayashi**</u>, T. Toda, K. Takeda, "Investigation of effectiveness on recurrent neural network for daily activity recognition using multi-modal signals," Proc. APSIPA, 7 pages, Kuala Lumpur, Malaysia, Dec. 2017.
+51. A. Tamamori, <u>**T. Hayashi**</u>, K. Kobayashi, K. Takeda, T. Toda, "Speaker-dependent WaveNet vocoder," Proc. INTERSPEECH, pp. 1118-1122, Aug. 2017.
+52. K. Kobayashi, <u>**T. Hayashi**</u>, A. Tamamori, T. Toda, "Statistical voice conversion with WaveNet-based waveform generation," Proc. INTERSPEECH, pp. 1138-1142, Aug. 2017.
+53. <u>**T. Hayashi**</u>, S. Watanabe, T. Toda, T. Hori, J. Le Roux, K. Takeda, "BLSTM-HMM hybrid system combined with sound activity detection network for polyphonic sound event detection," Proc. ICASSP, pp. 766-770, Mar. 2017.
+54. A. Tamamori, <u>**T. Hayashi**</u>, T. Toda, K. Takeda, "Investigation on recurrent neural network architectures for daily activity recognition," Proc. UV2016, Oct. 2016.
+55. <u>**T. Hayashi**</u>, S. Watanabe, T. Toda, T. Hori, J. Le Roux, K. Takeda, "Bidirectional LSTM-HMM hybrid system for polyphonic sound event detection," Proc. DCASE2016 workshop, 5 pages, Sep. 2016.
+56. S. Araki, <u>**T. Hayashi**</u>, M. Delcroix, M. Fujimoto, K. Takeda, T. Nakatani, "Exploring multi-channel features for denoising-autoencoder-based speech enhancement," Proc. ICASSP, pp.116-120, Apr. 2015.
+57. <u>**T. Hayashi**</u>, S. Watanabe, T. Toda, T. Tori, J. LeRoux, K. Takeda, "Convolutional bidirectional long short-term memory hidden Markov model hybrid system for polyphonic sound event detection," Proc. 5th Joint Meeting of the Acoustical Society of America and Acoustical Society of Japan, Dec. 2016.
+58. H. Erdogan, <u>**T. Hayashi**</u>, J. R. Hershey, T. Hori, C. Hori, W. Hsu, S. Kim, J. LeRoux, Z. Meng, S. Watanabe, "Multi-channel speech recognition: LSTMs all the way through," Proc. CHiME4 workshop, 2016.
+59. <u>**T. Hayashi**</u>, M. Nishida, N. Kitaoka, K. Takeda, "Daily activity recognition based on DNN using environmental sound and acceleration signals," Proc. EUSIPCO, pp. 2351-2355, Sep. 2015.
+60. N. Kitaoka, <u>**T. Hayashi**</u>, K. Takeda, "Noisy speech recognition using blind spatial subtraction array technique and deep bottleneck features," Proc. APSIPA, 4 pages, Dec. 2014.
+61. <u>**T. Hayashi**</u>, N. Kitaoka, C. Miyajima, K. Takeda, "Investigating the robustness of deep bottleneck features for recognizing speech of speakers of various ages", Proc. FORUM ACUSTICUM, 4 pages, Sep, 2014
 
 ### Domestic conference
 
@@ -208,12 +211,13 @@ Tomoki Hayashi received the B.E. degree in engineering and the M.E. and Ph.D. de
 
 ### Others
 
-1. <u>**T. Hayashi**</u>, R. Yamamoto, T. Yoshimura, P. Wu, J. Shi, T. Saeki, Y. Ju, Y. Yasuda, S. Takamichi, S. Watanabe, "ESPnet2-TTS: Extending the edge of tts research." arXiv preprint arXiv:2110.07840, 2021.
-2. J. Shi, X. Chang, <u>**T. Hayashi**</u>, Y. J. Lu, S. Watanabe,  "Discretization and Re-synthesis: an alternative method to solve the Cocktail Party Problem," arXiv preprint arXiv:2112.09382, 2021.
-3. I. Kuroyanagi, <u>**T. Hayashi**</u>, Y. Adachi, T. Yoshimura, K. Takeda, T. Toda, "ANOMALOUS SOUND DETECTION WITH ENSEMBLE OF AUTOENCODER AND BINARY CLASSIFICATION APPROACHES," DCASE2021 Challenge technical report, Jul. 2021.
-4. C. Narisetty, T. Hayashi, R. Ishizaki, S. Watanabe, K. Takeda, "Leveraging State-of-the-art ASR Techniques to Audio Captioning,"  DCASE2021 Challenge technical report, Jul. 2021.
-5. <u>**T. Hayashi**</u>, S. Watanabe, "Discretalk: Text-to-speech as a machine translation problem," arXiv preprint arXiv:2005.05525, 2020.
-6. <u>**T. Hayashi**</u>, T. Yoshimura, Y. Adachi, "CONFORMER-BASED ID-AWARE AUTOENCODER FOR UNSUPERVISED ANOMALOUS SOUND DETECTION," DCASE2020 Challenge technical report, Jul. 2020.
+1. I. Kuroyanagi, <u>**T. Hayashi**</u>, K. Takeda, T. Toda, "Two-stage anomalous sound detection systems using domain generalization and specialization techniques," DCASE2022 Challenge technical report, Jul. 2022.
+2. <u>**T. Hayashi**</u>, R. Yamamoto, T. Yoshimura, P. Wu, J. Shi, T. Saeki, Y. Ju, Y. Yasuda, S. Takamichi, S. Watanabe, "ESPnet2-TTS: Extending the edge of tts research." arXiv preprint arXiv:2110.07840, 2021.
+3. J. Shi, X. Chang, <u>**T. Hayashi**</u>, Y. J. Lu, S. Watanabe,  "Discretization and Re-synthesis: an alternative method to solve the Cocktail Party Problem," arXiv preprint arXiv:2112.09382, 2021.
+4. I. Kuroyanagi, <u>**T. Hayashi**</u>, Y. Adachi, T. Yoshimura, K. Takeda, T. Toda, "ANOMALOUS SOUND DETECTION WITH ENSEMBLE OF AUTOENCODER AND BINARY CLASSIFICATION APPROACHES," DCASE2021 Challenge technical report, Jul. 2021.
+5. C. Narisetty, T. Hayashi, R. Ishizaki, S. Watanabe, K. Takeda, "Leveraging State-of-the-art ASR Techniques to Audio Captioning,"  DCASE2021 Challenge technical report, Jul. 2021.
+6. <u>**T. Hayashi**</u>, S. Watanabe, "Discretalk: Text-to-speech as a machine translation problem," arXiv preprint arXiv:2005.05525, 2020.
+7. <u>**T. Hayashi**</u>, T. Yoshimura, Y. Adachi, "CONFORMER-BASED ID-AWARE AUTOENCODER FOR UNSUPERVISED ANOMALOUS SOUND DETECTION," DCASE2020 Challenge technical report, Jul. 2020.
 
 
 ## Softwares
